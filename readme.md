@@ -1,7 +1,8 @@
 # 💫 About Me:
 Just having fun<br>I love to mod games<br>A good team leader<br>I always find a shortcut way to do any job
 
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)[![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev)[![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)[![Gists Badge](https://badges.pufler.dev/gists/pujux)](https://badges.pufler.dev)[![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev)[![Created Badge](https://badges.pufler.dev/created/pujux/badge-it)](https://badges.pufler.dev)[![Contributors Display](https://badges.pufler.dev/contributors/pujux/badge-it?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev)  [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)  [![Gists Badge](https://badges.pufler.dev/gists/pujux)](https://badges.pufler.dev)  [![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev)  [![Created Badge](https://badges.pufler.dev/created/pujux/badge-it)](https://badges.pufler.dev) 
+[![Contributors Display](https://badges.pufler.dev/contributors/pujux/badge-it?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
 
 
 # 💻 Tech Stack:
@@ -17,7 +18,3 @@ Just having fun<br>I love to mod games<br>A good team leader<br>I always find a 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=ErBharatMalhotra&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
