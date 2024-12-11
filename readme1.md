@@ -1,6 +1,8 @@
 # 💫 About Me:
 Just having fun<br>I love to mod games<br>A good team leader<br>I always find a shortcut way to do any job
 
+[![Last Stars Display](https://badges.pufler.dev/last-stars/pujux?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
+
 [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)  
 
 # 💻 Tech Stack:
