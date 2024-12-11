@@ -19,4 +19,4 @@ Just having fun<br>I love to mod games<br>A good team leader<br>I always find a 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=ErBharatMalhotra) 
+![](https://komarev.com/ghpvc/?username=ErBharatMalhotra&base=789753&abbreviated=true) 
