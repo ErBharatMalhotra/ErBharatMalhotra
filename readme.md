@@ -14,7 +14,7 @@ Just having fun<br>I love to mod games<br>A good team leader<br>I always find a 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan7reza7&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ErBharatMalhotra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pavanpodila&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
