@@ -10,7 +10,7 @@ Just having fun<br>I love to mod games<br>A good team leader<br>I always find a 
 
 # 📊 GitHub Stats:
 
-![ErBharatMalhotra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErBharatMalhotra&theme=gotham&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ERBHARATMALHOTRA)](https://git.io/streak-stats)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pavanpodila&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
