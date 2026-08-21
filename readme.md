@@ -147,9 +147,9 @@ And that's usually enough reason to start building.
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="170">
+<img src="./profile/stats.svg">
 
-<img src="./profile/top-langs.svg" height="170">
+<img src="./profile/top-langs.svg">
 
 </div>
 
@@ -157,7 +157,7 @@ And that's usually enough reason to start building.
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ErBharatMalhotra&theme=tokyo-night)
+<img src="./profile/contributions.svg">
 
 </div>
 
