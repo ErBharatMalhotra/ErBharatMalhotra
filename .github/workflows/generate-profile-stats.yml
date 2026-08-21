@@ -18,7 +18,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch and save profile SVGs
+      - name: Fetch GitHub Stats SVGs
         run: |
           mkdir -p profile
 
@@ -30,25 +30,24 @@ jobs:
           curl -s -o profile/top-langs.svg \
             "https://github-readme-stats.vercel.app/api/top-langs/?username=ErBharatMalhotra&show_icons=true&theme=tokyo-night&hide_border=false&langs_count=8&layout=compact"
 
-          echo "🐍 Generating snake.svg..."
-          # Use platane/snk via npx
-          npx --yes snk \
-            --user ErBharatMalhotra \
-            --out profile/github-contribution-grid-snake.svg \
-            --out-dark profile/github-contribution-grid-snake-dark.svg
+          echo "✅ Stats SVGs fetched!"
 
-          echo "✅ All SVGs fetched successfully!"
+      - name: Generate snake contribution graph
+        uses: platane/snk@v3
+        with:
+          github_user_name: ErBharatMalhotra
+          outputs: profile/github-contribution-grid-snake.svg, profile/github-contribution-grid-snake-dark.svg
 
-      - name: Verify SVG files
+      - name: Verify all SVG files
         run: |
           echo "📁 Generated files:"
-          ls -la profile/*.svg
+          ls -la profile/
           echo ""
           for f in profile/*.svg; do
             if [ -s "$f" ]; then
-              echo "✅ $f - OK ($(wc -c < "$f") bytes)"
+              echo "✅ $f — $(wc -c < "$f") bytes"
             else
-              echo "❌ $f - EMPTY!"
+              echo "❌ $f — EMPTY!"
             fi
           done
 
