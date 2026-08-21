@@ -5,9 +5,6 @@ const USERNAME = 'ErBharatMalhotra';
 const TOKEN = process.env.GITHUB_TOKEN;
 const PROFILE_DIR = path.join(__dirname, '../../profile');
 
-// ─────────────────────────────────────────────
-// GraphQL Query
-// ─────────────────────────────────────────────
 const QUERY = `
 query($username: String!) {
   user(login: $username) {
@@ -44,9 +41,6 @@ query($username: String!) {
 }
 `;
 
-// ─────────────────────────────────────────────
-// GitHub API Call
-// ─────────────────────────────────────────────
 async function fetchGitHubData() {
   const res = await fetch('https://api.github.com/graphql', {
     method: 'POST',
@@ -56,7 +50,6 @@ async function fetchGitHubData() {
     },
     body: JSON.stringify({ query: QUERY, variables: { username: USERNAME } }),
   });
-
   const json = await res.json();
   if (json.errors) {
     console.error('GraphQL errors:', json.errors);
@@ -65,190 +58,149 @@ async function fetchGitHubData() {
   return json.data;
 }
 
-// ─────────────────────────────────────────────
-// SVG Helpers
-// ─────────────────────────────────────────────
-function escapeXml(str) {
-  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+function esc(str) {
+  return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-const COLORS = {
+const C = {
   bg: '#0d1117',
   border: '#30363d',
   text: '#e6edf3',
-  textSecondary: '#8b949e',
+  muted: '#8b949e',
   green: '#39d353',
   purple: '#a855f7',
   blue: '#58a6ff',
   yellow: '#f0c040',
+  orange: '#f9826c',
 };
 
-// ─────────────────────────────────────────────
-// Generate stats.svg — pure text, no <image> tag
-// ─────────────────────────────────────────────
+// ─── stats.svg ──────────────────────────────
 function generateStatsSvg(data) {
-  const user = data.user;
-  const cal = user.contributionsCollection.contributionCalendar;
-  const repos = user.repositories;
-  const totalStars = repos.nodes.reduce((sum, r) => sum + r.stargazerCount, 0);
+  const u = data.user;
+  const cal = u.contributionsCollection.contributionCalendar;
+  const repos = u.repositories;
+  const stars = repos.nodes.reduce((s, r) => s + r.stargazerCount, 0);
 
-  const stats = [
-    { label: '★ Total Stars', value: totalStars, color: COLORS.yellow },
-    { label: ' нель Total Commits', value: cal.totalContributions, color: COLORS.green },
-    { label: '⊞ Total PRs', value: user.pullRequests.totalCount, color: COLORS.purple },
-    { label: '◯ Total Issues', value: user.issues.totalCount, color: COLORS.blue },
-    { label: '♦ Followers', value: user.followers.totalCount, color: COLORS.textSecondary },
-    { label: '♦ Following', value: user.following.totalCount, color: COLORS.textSecondary },
+  // Pure ASCII labels only
+  const rows = [
+    { label: 'Stars',    val: stars,                    color: C.yellow },
+    { label: 'Commits',  val: cal.totalContributions,   color: C.green },
+    { label: 'PRs',      val: u.pullRequests.totalCount,color: C.purple },
+    { label: 'Issues',   val: u.issues.totalCount,      color: C.blue },
+    { label: 'Followers',val: u.followers.totalCount,   color: C.orange },
+    { label: 'Following',val: u.following.totalCount,   color: C.muted },
   ];
 
-  const statRows = stats.map((s, i) => {
-    const y = 115 + i * 38;
-    return `
-    <text x="30" y="${y}" fill="${COLORS.textSecondary}" font-family="'Segoe UI',Arial,sans-serif" font-size="13">${s.label}</text>
-    <text x="320" y="${y}" fill="${s.color}" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="bold" text-anchor="end">${s.value.toLocaleString()}</text>`;
-  }).join('');
+  const H = 60 + rows.length * 36 + 40;
 
-  const height = 130 + stats.length * 38 + 30;
+  const statLines = rows.map((r, i) => {
+    const y = 100 + i * 36;
+    return `<text x="30" y="${y}" fill="${C.muted}" font-family="Arial,sans-serif" font-size="13">${r.label}</text>
+    <text x="320" y="${y}" fill="${r.color}" font-family="Arial,sans-serif" font-size="16" font-weight="bold" text-anchor="end">${r.val.toLocaleString()}</text>`;
+  }).join('\n    ');
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="350" height="${height}" viewBox="0 0 350 ${height}">
-  <rect width="350" height="${height}" rx="10" fill="${COLORS.bg}" stroke="${COLORS.border}" stroke-width="1"/>
-
-  <text x="30" y="35" fill="${COLORS.text}" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="bold">GitHub Stats</text>
-  <text x="30" y="55" fill="${COLORS.textSecondary}" font-family="'Segoe UI',Arial,sans-serif" font-size="12">@${escapeXml(user.login)}</text>
-
-  <line x1="20" y1="75" x2="330" y2="75" stroke="${COLORS.border}" stroke-width="1"/>
-
-  <text x="30" y="95" fill="${COLORS.textSecondary}" font-family="'Segoe UI',Arial,sans-serif" font-size="11">${repos.totalCount} public repos</text>
-
-  ${statRows}
-
-  <line x1="20" y1="${height - 25}" x2="330" y2="${height - 25}" stroke="${COLORS.border}" stroke-width="1"/>
-  <text x="175" y="${height - 8}" fill="${COLORS.textSecondary}" font-family="'Segoe UI',Arial,sans-serif" font-size="9" text-anchor="middle">Updated ${new Date().toISOString().split('T')[0]}</text>
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="350" height="${H}" viewBox="0 0 350 ${H}">
+  <rect width="350" height="${H}" rx="10" fill="${C.bg}" stroke="${C.border}" stroke-width="1"/>
+  <text x="30" y="35" fill="${C.text}" font-family="Arial,sans-serif" font-size="18" font-weight="bold">GitHub Stats</text>
+  <text x="30" y="55" fill="${C.muted}" font-family="Arial,sans-serif" font-size="12">@${esc(u.login)}</text>
+  <line x1="20" y1="72" x2="330" y2="72" stroke="${C.border}" stroke-width="1"/>
+  <text x="30" y="88" fill="${C.muted}" font-family="Arial,sans-serif" font-size="11">${repos.totalCount} public repos</text>
+    ${statLines}
+  <line x1="20" y1="${H - 28}" x2="330" y2="${H - 28}" stroke="${C.border}" stroke-width="1"/>
+  <text x="175" y="${H - 10}" fill="${C.muted}" font-family="Arial,sans-serif" font-size="9" text-anchor="middle">Updated ${new Date().toISOString().split('T')[0]}</text>
 </svg>`;
 }
 
-// ─────────────────────────────────────────────
-// Generate top-langs.svg
-// ─────────────────────────────────────────────
+// ─── top-langs.svg ──────────────────────────
 function generateTopLangsSvg(data) {
   const repos = data.user.repositories.nodes.filter(r => !r.isPrivate);
   const langMap = {};
-
   repos.forEach(r => {
     if (r.primaryLanguage) {
-      const lang = r.primaryLanguage.name;
-      if (!langMap[lang]) langMap[lang] = { color: r.primaryLanguage.color || '#8b949e', count: 0 };
-      langMap[lang].count++;
+      const n = r.primaryLanguage.name;
+      if (!langMap[n]) langMap[n] = { color: r.primaryLanguage.color || '#8b949e', count: 0 };
+      langMap[n].count++;
     }
   });
+  const sorted = Object.entries(langMap).sort((a, b) => b[1].count - a[1].count).slice(0, 8);
+  const total = sorted.reduce((s, [, v]) => s + v.count, 0);
+  const barW = 250, barH = 14, barX = 40, startY = 130;
 
-  const sorted = Object.entries(langMap)
-    .sort((a, b) => b[1].count - a[1].count)
-    .slice(0, 8);
-
-  const total = sorted.reduce((sum, [, v]) => sum + v.count, 0);
-  const barWidth = 250;
-  const barHeight = 14;
-  const barX = 40;
-  const barStartY = 130;
-
-  const langRows = sorted.map(([name, info], i) => {
-    const y = barStartY + i * 30;
+  const lines = sorted.map(([name, info], i) => {
+    const y = startY + i * 30;
     const pct = (info.count / total) * 100;
-    const w = Math.max((pct / 100) * barWidth, 8);
+    const w = Math.max((pct / 100) * barW, 8);
+    return `<text x="40" y="${y - 5}" fill="${C.muted}" font-family="Arial,sans-serif" font-size="12">${esc(name)}</text>
+    <rect x="${barX}" y="${y}" width="${barW}" height="${barH}" rx="7" fill="${C.border}"/>
+    <rect x="${barX}" y="${y}" width="${w}" height="${barH}" rx="7" fill="${info.color}"/>
+    <text x="${barX + w + 8}" y="${y + 11}" fill="${C.muted}" font-family="Arial,sans-serif" font-size="11">${pct.toFixed(1)}%</text>`;
+  }).join('\n    ');
 
-    return `
-    <text x="40" y="${y - 5}" fill="${COLORS.textSecondary}" font-family="'Segoe UI',Arial,sans-serif" font-size="12">${escapeXml(name)}</text>
-    <rect x="${barX}" y="${y}" width="${barWidth}" height="${barHeight}" rx="7" fill="${COLORS.border}"/>
-    <rect x="${barX}" y="${y}" width="${w}" height="${barHeight}" rx="7" fill="${info.color}"/>
-    <text x="${barX + w + 8}" y="${y + 11}" fill="${COLORS.textSecondary}" font-family="'Segoe UI',Arial,sans-serif" font-size="11">${pct.toFixed(1)}%</text>`;
-  }).join('');
-
-  const height = barStartY + sorted.length * 30 + 40;
-
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="350" height="${height}" viewBox="0 0 350 ${height}">
-  <rect width="350" height="${height}" rx="10" fill="${COLORS.bg}" stroke="${COLORS.border}" stroke-width="1"/>
-
-  <text x="40" y="40" fill="${COLORS.text}" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="bold">Most Used Languages</text>
-  <text x="40" y="60" fill="${COLORS.textSecondary}" font-family="'Segoe UI',Arial,sans-serif" font-size="12">Based on public repositories</text>
-
-  <line x1="30" y1="80" x2="320" y2="80" stroke="${COLORS.border}" stroke-width="1"/>
-  <text x="40" y="105" fill="${COLORS.textSecondary}" font-family="'Segoe UI',Arial,sans-serif" font-size="12">Languages (${sorted.length})</text>
-  <text x="290" y="105" fill="${COLORS.textSecondary}" font-family="'Segoe UI',Arial,sans-serif" font-size="12" text-anchor="end">${repos.length} repos</text>
-
-  ${langRows}
+  const H = startY + sorted.length * 30 + 40;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="350" height="${H}" viewBox="0 0 350 ${H}">
+  <rect width="350" height="${H}" rx="10" fill="${C.bg}" stroke="${C.border}" stroke-width="1"/>
+  <text x="40" y="40" fill="${C.text}" font-family="Arial,sans-serif" font-size="16" font-weight="bold">Most Used Languages</text>
+  <text x="40" y="60" fill="${C.muted}" font-family="Arial,sans-serif" font-size="12">Based on public repositories</text>
+  <line x1="30" y1="80" x2="320" y2="80" stroke="${C.border}" stroke-width="1"/>
+  <text x="40" y="105" fill="${C.muted}" font-family="Arial,sans-serif" font-size="12">Languages (${sorted.length})</text>
+  <text x="290" y="105" fill="${C.muted}" font-family="Arial,sans-serif" font-size="12" text-anchor="end">${repos.length} repos</text>
+    ${lines}
 </svg>`;
 }
 
-// ─────────────────────────────────────────────
-// Contribution Calendar SVG
-// ─────────────────────────────────────────────
+// ─── contributions.svg ──────────────────────
+// Compact version: 20 weeks only, smaller cells
 function generateContribSvg(data) {
   const cal = data.user.contributionsCollection.contributionCalendar;
-  const weeks = cal.weeks;
-  const totalDays = weeks.reduce((sum, w) => sum + w.contributionDays.length, 0);
+  // Take last 20 weeks only (fit on screen)
+  const weeks = cal.weeks.slice(-20);
+  const cell = 10, gap = 2, sx = 10, sy = 50;
+  const W = sx + weeks.length * (cell + gap) + 30;
+  const H = sy + 7 * (cell + gap) + 30;
 
-  const cellSize = 10;
-  const cellGap = 2;
-  const startX = 10;
-  const startY = 50;
-  const width = startX + weeks.length * (cellSize + cellGap) + 10;
-  const height = startY + 7 * (cellSize + cellGap) + 50;
-
-  function getGreen(count) {
-    if (count === 0) return '#161b22';
-    if (count <= 3) return '#0e4429';
-    if (count <= 6) return '#006d32';
-    if (count <= 9) return '#26a641';
+  function green(c) {
+    if (c === 0) return '#161b22';
+    if (c <= 3) return '#0e4429';
+    if (c <= 6) return '#006d32';
+    if (c <= 9) return '#26a641';
     return '#39d353';
   }
 
   const cells = weeks.map((w, wi) =>
     w.contributionDays.map((d, di) => {
-      const x = startX + wi * (cellSize + cellGap);
-      const y = startY + di * (cellSize + cellGap);
-      return `<rect x="${x}" y="${y}" width="${cellSize}" height="${cellSize}" rx="2" fill="${getGreen(d.contributionCount)}"/>`;
+      const x = sx + wi * (cell + gap);
+      const y = sy + di * (cell + gap);
+      return `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${green(d.contributionCount)}"/>`;
     }).join('\n    ')
   ).join('\n    ');
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">
-  <rect width="${width}" height="${height}" rx="10" fill="${COLORS.bg}" stroke="${COLORS.border}" stroke-width="1"/>
-
-  <text x="20" y="30" fill="${COLORS.text}" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="bold">Contributions</text>
-  <text x="${width - 20}" y="30" fill="${COLORS.green}" font-family="'Segoe UI',Arial,sans-serif" font-size="14" text-anchor="end">${cal.totalContributions.toLocaleString()} contributions</text>
-
-  <line x1="10" y1="40" x2="${width - 10}" y2="40" stroke="${COLORS.border}" stroke-width="1"/>
-
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
+  <rect width="${W}" height="${H}" rx="10" fill="${C.bg}" stroke="${C.border}" stroke-width="1"/>
+  <text x="20" y="30" fill="${C.text}" font-family="Arial,sans-serif" font-size="14" font-weight="bold">Recent Contributions</text>
+  <text x="${W - 20}" y="30" fill="${C.green}" font-family="Arial,sans-serif" font-size="13" text-anchor="end">${cal.totalContributions.toLocaleString()} total</text>
+  <line x1="10" y1="40" x2="${W - 10}" y2="40" stroke="${C.border}" stroke-width="1"/>
     ${cells}
 </svg>`;
 }
 
-// ─────────────────────────────────────────────
-// Main
-// ─────────────────────────────────────────────
+// ─── Main ───────────────────────────────────
 async function main() {
-  console.log('📊 Fetching GitHub data for', USERNAME, '...');
+  console.log('Fetching GitHub data for', USERNAME, '...');
   const data = await fetchGitHubData();
-  console.log('✅ Data fetched!');
+  console.log('Data fetched!');
 
   fs.mkdirSync(PROFILE_DIR, { recursive: true });
 
-  const statsSvg = generateStatsSvg(data);
-  fs.writeFileSync(path.join(PROFILE_DIR, 'stats.svg'), statsSvg);
-  console.log('✅ stats.svg generated');
+  fs.writeFileSync(path.join(PROFILE_DIR, 'stats.svg'), generateStatsSvg(data));
+  console.log('stats.svg done');
 
-  const langsSvg = generateTopLangsSvg(data);
-  fs.writeFileSync(path.join(PROFILE_DIR, 'top-langs.svg'), langsSvg);
-  console.log('✅ top-langs.svg generated');
+  fs.writeFileSync(path.join(PROFILE_DIR, 'top-langs.svg'), generateTopLangsSvg(data));
+  console.log('top-langs.svg done');
 
-  const contribSvg = generateContribSvg(data);
-  fs.writeFileSync(path.join(PROFILE_DIR, 'contributions.svg'), contribSvg);
-  console.log('✅ contributions.svg generated');
+  fs.writeFileSync(path.join(PROFILE_DIR, 'contributions.svg'), generateContribSvg(data));
+  console.log('contributions.svg done');
 
-  console.log('🎉 All SVGs generated successfully!');
+  console.log('All SVGs generated!');
 }
 
-main().catch(err => {
-  console.error('❌ Error:', err.message);
-  process.exit(1);
-});
+main().catch(err => { console.error('Error:', err.message); process.exit(1); });
