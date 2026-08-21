@@ -1,22 +1,19 @@
 # 📊 Profile Stats
 
-Auto-generated SVG files for the GitHub profile README — powered by GitHub's own GraphQL API.
+Profile stats now use **direct API URLs** — no local SVG files needed!
 
-## Files
+## APIs Used
 
-| File | Description |
-|------|-------------|
-| `stats.svg` | GitHub stats card (stars, commits, PRs, issues, followers) |
-| `top-langs.svg` | Most used languages with bar chart |
-| `contributions.svg` | Contribution calendar heatmap |
-| `github-contribution-grid-snake.svg` | Snake eating contribution squares |
+| Section | API | Status |
+|---------|-----|--------|
+| GitHub Stats | `github-readme-stats-gold-eta.vercel.app` | Active |
+| Top Languages | `github-readme-stats-gold-eta.vercel.app` | Active |
+| Streak | `github-readme-streak-stats-theta.vercel.app` | Active |
 
 ## Auto-Update
 
-Updated **daily** via `.github/workflows/generate-profile-stats.yml`
+These APIs fetch data **live** from GitHub — always up to date, no workflow needed!
 
-**No external services** — all data comes from GitHub's GraphQL API using the built-in `GITHUB_TOKEN`.
+## Why Not Actions?
 
-## Manual Trigger
-
-1. **Actions** tab → **Generate Profile Stats** → **Run workflow**
+External APIs are simpler and always updated. If an API goes down, just swap the URL.

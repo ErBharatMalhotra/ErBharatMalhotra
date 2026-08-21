@@ -147,9 +147,9 @@ And that's usually enough reason to start building.
 
 <div align="center">
 
-<img src="./profile/stats.svg">
+<a href="https://github.com/ErBharatMalhotra"><img src="https://github-readme-stats-gold-eta.vercel.app/api?username=ErBharatMalhotra&theme=tokyo-night&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="170"></a>
 
-<img src="./profile/streak.svg">
+<a href="https://github.com/ErBharatMalhotra"><img src="https://github-readme-stats-gold-eta.vercel.app/api/top-langs/?username=ErBharatMalhotra&theme=tokyo-night&show_icons=true&hide_border=true&langs_count=8&layout=compact" height="170"></a>
 
 </div>
 
@@ -157,23 +157,11 @@ And that's usually enough reason to start building.
 
 <div align="center">
 
-<img src="./profile/top-langs.svg">
-
-<img src="./profile/contributions.svg">
+![GitHub Streak](https://github-readme-streak-stats-theta.vercel.app?user=ErBharatMalhotra&theme=tokyo-night)
 
 </div>
 
----
 
-# 🏆 Contribution Graph
-
-<div align="center">
-
-![GitHub Snake](./profile/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 # 📈 What I'm Building Toward
 
