@@ -149,6 +149,18 @@ And that's usually enough reason to start building.
 
 <img src="./profile/stats.svg">
 
+</div>
+
+<div align="center">
+
+<img src="./profile/streak.svg">
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="./profile/top-langs.svg">
 
 </div>
