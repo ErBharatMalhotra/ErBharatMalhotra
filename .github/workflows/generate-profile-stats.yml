@@ -2,9 +2,8 @@ name: Generate Profile Stats
 
 on:
   schedule:
-    # Runs every day at midnight UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -18,31 +17,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch GitHub Stats SVGs
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm init -y && npm install axios
+
+      - name: Generate all profile SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p profile
-
-          echo "📊 Fetching stats.svg..."
-          curl -s -o profile/stats.svg \
-            "https://github-readme-stats.vercel.app/api?username=ErBharatMalhotra&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=false"
-
-          echo "📊 Fetching top-langs.svg..."
-          curl -s -o profile/top-langs.svg \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=ErBharatMalhotra&show_icons=true&theme=tokyo-night&hide_border=false&langs_count=8&layout=compact"
-
-          echo "✅ Stats SVGs fetched!"
+          node .github/scripts/generate-stats.js
 
       - name: Generate snake contribution graph
         uses: platane/snk@v3
         with:
           github_user_name: ErBharatMalhotra
-          outputs: profile/github-contribution-grid-snake.svg, profile/github-contribution-grid-snake-dark.svg
+          outputs: profile/github-contribution-grid-snake.svg
 
       - name: Verify all SVG files
         run: |
           echo "📁 Generated files:"
-          ls -la profile/
-          echo ""
           for f in profile/*.svg; do
             if [ -s "$f" ]; then
               echo "✅ $f — $(wc -c < "$f") bytes"
