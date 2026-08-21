@@ -14,7 +14,7 @@ query($username: String!) {
     name
     login
     avatarUrl
-    repositories(ownerAffiliations: OWNER) {
+    repositories(ownerAffiliations: OWNER, first: 100) {
       totalCount
       nodes {
         name
