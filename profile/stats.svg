@@ -1,61 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="220" viewBox="0 0 495 220">
-  <defs>
-    <linearGradient id="glowGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0.08"/>
-    </linearGradient>
-    <style>
-  @keyframes fadeUp { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:translateY(0); } }
-  @keyframes countPulse { 0%,100%{ opacity:1; } 50%{ opacity:0.75; } }
-  @keyframes shimmer { 0%{ stop-color:#06b6d4; } 50%{ stop-color:#a78bfa; } 100%{ stop-color:#06b6d4; } }
-  @keyframes barGrow { from { width:0; } }
-  .row { animation: fadeUp 0.5s ease both; }
-  .row:nth-child(1) { animation-delay:.1s }
-  .row:nth-child(2) { animation-delay:.2s }
-  .row:nth-child(3) { animation-delay:.3s }
-  .big-num { animation: fadeUp 0.6s ease both; animation-delay:.2s; }
-  .bar { animation: barGrow 0.8s ease both; }
-
-      .stat-box { transition: transform 0.2s, box-shadow 0.2s; }
-    </style>
-  </defs>
-
-  <rect width="495" height="220" rx="16" fill="#111827" stroke="#1e293b" stroke-width="1"/>
-  <rect width="495" height="220" rx="16" fill="url(#glowGrad)"/>
-
-  <!-- Title -->
-  <text x="30" y="38" fill="#f1f5f9" font-family="Arial,sans-serif" font-size="20" font-weight="bold">GitHub Stats</text>
-  <text x="30" y="58" fill="#64748b" font-family="Arial,sans-serif" font-size="13">@ErBharatMalhotra</text>
-
-  <!-- 3 Big Numbers -->
-  <g class="row">
-    <rect x="20" y="75" width="148" height="70" rx="12" fill="#0a0e1a" stroke="#1e293b" stroke-width="1"/>
-    <text x="94" y="100" fill="#64748b" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">COMMITS</text>
-    <text x="94" y="130" fill="#10b981" font-family="Arial,sans-serif" font-size="26" font-weight="bold" text-anchor="middle" class="big-num">18,168</text>
-  </g>
-
-  <g class="row">
-    <rect x="173" y="75" width="148" height="70" rx="12" fill="#0a0e1a" stroke="#1e293b" stroke-width="1"/>
-    <text x="247" y="100" fill="#64748b" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">STREAK</text>
-    <text x="247" y="130" fill="#06b6d4" font-family="Arial,sans-serif" font-size="26" font-weight="bold" text-anchor="middle" class="big-num">369d</text>
-  </g>
-
-  <g class="row">
-    <rect x="326" y="75" width="148" height="70" rx="12" fill="#0a0e1a" stroke="#1e293b" stroke-width="1"/>
-    <text x="400" y="100" fill="#64748b" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">REPOS</text>
-    <text x="400" y="130" fill="#a78bfa" font-family="Arial,sans-serif" font-size="26" font-weight="bold" text-anchor="middle" class="big-num">11</text>
-  </g>
-
-  <!-- Bottom row: Stars + Followers -->
-  <g class="row">
-    <rect x="20" y="155" width="230" height="48" rx="10" fill="#0a0e1a" stroke="#1e293b" stroke-width="1"/>
-    <text x="40" y="183" fill="#fbbf24" font-family="Arial,sans-serif" font-size="14" font-weight="bold">8</text>
-    <text x="60" y="183" fill="#64748b" font-family="Arial,sans-serif" font-size="13">stars earned</text>
-  </g>
-
-  <g class="row">
-    <rect x="256" y="155" width="218" height="48" rx="10" fill="#0a0e1a" stroke="#1e293b" stroke-width="1"/>
-    <text x="276" y="183" fill="#f472b6" font-family="Arial,sans-serif" font-size="14" font-weight="bold">2</text>
-    <text x="296" y="183" fill="#64748b" font-family="Arial,sans-serif" font-size="13">followers</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="310" viewBox="0 0 350 310">
+  <style>
+    @keyframes fadeUp { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
+    .row { animation: fadeUp 0.5s ease both; }
+    g:hover text { fill: #ffffff !important; }
+  </style>
+  <rect width="350" height="310" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="30" y="35" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="bold">GitHub Stats</text>
+  <text x="30" y="55" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">@ErBharatMalhotra</text>
+  <line x1="20" y1="68" x2="330" y2="68" stroke="#30363d" stroke-width="1"/>
+    <g class="row" style="animation-delay:0s">
+      <text x="30" y="80" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Total Commits</text>
+      <text x="320" y="80" fill="#39d353" font-family="Arial,sans-serif" font-size="24" font-weight="bold" text-anchor="end">18,170</text>
+    </g>
+    <g class="row" style="animation-delay:0.08s">
+      <text x="30" y="124" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Current Streak</text>
+      <text x="320" y="124" fill="#58a6ff" font-family="Arial,sans-serif" font-size="24" font-weight="bold" text-anchor="end">370 days</text>
+    </g>
+    <g class="row" style="animation-delay:0.16s">
+      <text x="30" y="168" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Best Streak</text>
+      <text x="320" y="168" fill="#f0c040" font-family="Arial,sans-serif" font-size="24" font-weight="bold" text-anchor="end">370 days</text>
+    </g>
+    <g class="row" style="animation-delay:0.24s">
+      <text x="30" y="212" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Stars Earned</text>
+      <text x="320" y="212" fill="#f9826c" font-family="Arial,sans-serif" font-size="16" font-weight="normal" text-anchor="end">8</text>
+    </g>
+    <g class="row" style="animation-delay:0.32s">
+      <text x="30" y="256" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Public Repos</text>
+      <text x="320" y="256" fill="#a855f7" font-family="Arial,sans-serif" font-size="16" font-weight="normal" text-anchor="end">12</text>
+    </g>
 </svg>
