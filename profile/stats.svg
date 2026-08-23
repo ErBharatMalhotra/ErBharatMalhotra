@@ -10,22 +10,22 @@
   <line x1="20" y1="68" x2="330" y2="68" stroke="#30363d" stroke-width="1"/>
     <g class="row" style="animation-delay:0s">
       <text x="30" y="80" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Total Commits</text>
-      <text x="320" y="80" fill="#39d353" font-family="Arial,sans-serif" font-size="24" font-weight="bold" text-anchor="end">18,170</text>
+      <text x="320" y="80" fill="#39d353" font-family="Arial,sans-serif" font-size="24" font-weight="bold" text-anchor="end">18,172</text>
     </g>
     <g class="row" style="animation-delay:0.08s">
       <text x="30" y="124" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Current Streak</text>
-      <text x="320" y="124" fill="#58a6ff" font-family="Arial,sans-serif" font-size="24" font-weight="bold" text-anchor="end">370 days</text>
+      <text x="320" y="124" fill="#58a6ff" font-family="Arial,sans-serif" font-size="24" font-weight="bold" text-anchor="end">364 days</text>
     </g>
     <g class="row" style="animation-delay:0.16s">
       <text x="30" y="168" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Best Streak</text>
-      <text x="320" y="168" fill="#f0c040" font-family="Arial,sans-serif" font-size="24" font-weight="bold" text-anchor="end">370 days</text>
+      <text x="320" y="168" fill="#f0c040" font-family="Arial,sans-serif" font-size="24" font-weight="bold" text-anchor="end">364 days</text>
     </g>
     <g class="row" style="animation-delay:0.24s">
       <text x="30" y="212" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Stars Earned</text>
-      <text x="320" y="212" fill="#f9826c" font-family="Arial,sans-serif" font-size="16" font-weight="normal" text-anchor="end">8</text>
+      <text x="320" y="212" fill="#f9826c" font-family="Arial,sans-serif" font-size="16" font-weight="normal" text-anchor="end">9</text>
     </g>
     <g class="row" style="animation-delay:0.32s">
       <text x="30" y="256" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Public Repos</text>
-      <text x="320" y="256" fill="#a855f7" font-family="Arial,sans-serif" font-size="16" font-weight="normal" text-anchor="end">12</text>
+      <text x="320" y="256" fill="#a855f7" font-family="Arial,sans-serif" font-size="16" font-weight="normal" text-anchor="end">13</text>
     </g>
 </svg>
