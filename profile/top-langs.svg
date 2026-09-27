@@ -7,7 +7,7 @@
   </style>
   <rect width="350" height="230" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
   <text x="40" y="35" fill="#e6edf3" font-family="Arial,sans-serif" font-size="16" font-weight="bold">Top Languages</text>
-  <text x="40" y="55" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">14 repos</text>
+  <text x="40" y="55" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">15 repos</text>
   <line x1="30" y1="68" x2="320" y2="68" stroke="#30363d" stroke-width="1"/>
     <g class="row" style="animation-delay:0s">
       <text x="40" y="90" fill="#e6edf3" font-family="Arial,sans-serif" font-size="12">Python</text>
