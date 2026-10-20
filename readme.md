@@ -7,9 +7,11 @@
 **Automation engineer. Python, GitHub Actions, AI systems.**
 
 I build systems that run without me. In about four months I designed and shipped
-**14 live web properties** - 359 programmatic pages, 275+ browser tools, an
+**14 live web properties** - 330+ city guides, 275+ browser tools, an
 AI-scored PTE platform, six language hubs and an autonomous AI newsroom - all
 rebuilt by one daily pipeline.
+
+**Bharat Digital Network — connecting India, city by city.**
 
 [Portfolio](https://me.bharatdn.com) · [Resume](https://me.bharatdn.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/bharatmalhotra7/) · [Email](mailto:mr.bharatmalhotra@gmail.com)
 
@@ -19,7 +21,7 @@ rebuilt by one daily pipeline.
 
 | Product | What it does | Stack |
 |---|---|---|
-| **[Bharat Digital Network](https://bharatdn.com)** | 13 subdomains + root: 359 city guides, 6 language hubs, grammar, jobs, news, tools. One daily build pipeline. | Python, GitHub Actions, Cloudflare |
+| **[Bharat Digital Network](https://bharatdn.com)** | 13 subdomains + root: 330+ city guides, 6 language hubs, grammar, jobs, news, tools. One daily build pipeline. | Python, GitHub Actions, Cloudflare |
 | **[PTE Practice](https://pte.bharatdn.com)** | Full PTE practice bank with AI scoring, progress tracking and all task types. | Python, LLM APIs, static build |
 | **[Jobs Tracker](https://jobs.bharatdn.com)** | Government jobs, scholarships and exams - collected, verified and updated twice daily. | Python, GitHub Actions |
 | **[The Daily Prompt](https://news.bharatdn.com)** | Autonomous AI newspaper with a fact gate before publishing. | Python, LLM workflows, Actions |
@@ -31,7 +33,7 @@ Architecture write-up: [bharatdn-case-study](https://github.com/ErBharatMalhotra
 ## How I build
 
 - **One pipeline, many products.** Shared fetch -> validate -> build -> deploy logic, with per-hub config. A new hub is configuration, not a new codebase.
-- **Programmatic pages with real data.** 359 city pages, each with a reason to exist, a published methodology and indexable HTML.
+- **Programmatic pages with real data.** 330+ city guides, each with a reason to exist, a published methodology and indexable HTML.
 - **AI in production, with guardrails.** Scoring, generation, retries, fallbacks and a fact gate - not a demo notebook.
 - **Performance by default.** Capped pixel ratio, lazy media, reduced-motion support, plain HTML for SEO and Core Web Vitals.
 
