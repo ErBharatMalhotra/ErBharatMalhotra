@@ -1,261 +1,48 @@
-<div align="center">
+<a href="https://me.bharatdn.com">
+  <img src="https://me.bharatdn.com/assets/banner-linkedin.png" alt="Bharat Malhotra - Automation Engineer" width="100%">
+</a>
 
-# 👨‍💻 Bharat Malhotra
+# Bharat Malhotra
 
-### `Builder • Automation Engineer • AI Explorer • Problem Solver`
+**Automation engineer. Python, GitHub Actions, AI systems.**
 
-**I build systems that automate the boring stuff — and then automate the automation.**
+I build systems that run without me. In about four months I designed and shipped
+**14 live web properties** - 359 programmatic pages, 275+ browser tools, an
+AI-scored PTE platform, six language hubs and an autonomous AI newsroom - all
+rebuilt by one daily pipeline.
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-ErBharatMalhotra-181717?style=for-the-badge&logo=github)](https://github.com/ErBharatMalhotra)
-[![Profile Views](https://komarev.com/ghpvc/?username=ErBharatMalhotra&style=for-the-badge&color=blue)](https://github.com/ErBharatMalhotra)
-
-</div>
-
----
-
-## ⚡ About Me
-
-I'm a **builder at heart**.
-
-I enjoy taking an idea, figuring out how it works, building a working version, breaking it, fixing it, and eventually turning it into something that can **run by itself**.
-
-My sweet spot is where **software + automation + AI + cloud + experimentation** meet.
-
-```text
-Problem
-   ↓
-Understand it
-   ↓
-Build it
-   ↓
-Automate it
-   ↓
-Make it smarter
-   ↓
-Let it run 🚀
-```
-
-### 🧠 What describes me best
-
-* 🤖 Building **AI-powered tools & workflows**
-* ⚙️ Automating repetitive processes
-* 🧪 Experimenting with new technologies
-* ☁️ Working with cloud & deployment infrastructure
-* 🔧 Solving problems with unconventional approaches
-* 🎮 Exploring game modding & technical experiments
-* 🧩 Learning by building rather than just watching tutorials
-* 🚀 Turning small ideas into working systems
-
-> **If I have to do something more than twice, I'm probably going to automate it.**
+[Portfolio](https://me.bharatdn.com) · [Resume](https://me.bharatdn.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/bharat-malhotra-209039352/) · [Email](mailto:mr.bharatmalhotra@gmail.com)
 
 ---
 
-# 🛠️ Tech Arsenal
+## What I've shipped
 
-### Languages
+| Product | What it does | Stack |
+|---|---|---|
+| **[Bharat Digital Network](https://bharatdn.com)** | 13 subdomains + root: 359 city guides, 6 language hubs, grammar, jobs, news, tools. One daily build pipeline. | Python, GitHub Actions, Cloudflare |
+| **[PTE Practice](https://pte.bharatdn.com)** | Full PTE practice bank with AI scoring, progress tracking and all task types. | Python, LLM APIs, static build |
+| **[Jobs Tracker](https://jobs.bharatdn.com)** | Government jobs, scholarships and exams - collected, verified and updated twice daily. | Python, GitHub Actions |
+| **[The Daily Prompt](https://news.bharatdn.com)** | Autonomous AI newspaper with a fact gate before publishing. | Python, LLM workflows, Actions |
+| **[ToolFactory](https://tools.bharatdn.com)** | 275+ browser tools. No signup, no server, no upload - works offline. | Vanilla JS, Web APIs |
+| **[Open Source AI Radar](https://github.com/ErBharatMalhotra/open-source-ai-radar)** | Scores 5,200+ OSS AI repos on Impact / Velocity / Health, refreshed 6x daily. MIT. | Python, GitHub API, Actions |
 
-<p align="left">
+## How I build
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,lua" />
+- **One pipeline, many products.** Shared fetch -> validate -> build -> deploy logic, with per-hub config. A new hub is configuration, not a new codebase.
+- **Programmatic pages with real data.** 359 city pages, each with a reason to exist, a published methodology and indexable HTML.
+- **AI in production, with guardrails.** Scoring, generation, retries, fallbacks and a fact gate - not a demo notebook.
+- **Performance by default.** Capped pixel ratio, lazy media, reduced-motion support, plain HTML for SEO and Core Web Vitals.
 
-</p>
+## Stack
 
-### Frameworks & Development
+`Python` `GitHub Actions` `REST APIs` `Cloudflare` `HTML/CSS` `JavaScript` `LLM workflows` `programmatic SEO` `Git`
 
-<p align="left">
+## Currently
 
-<img src="https://skillicons.dev/icons?i=dotnet,django,wordpress,nodejs" />
-
-</p>
-
-### Cloud / Infrastructure
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,oracle" />
-
-</p>
-
-### Automation & DevOps
-
-`GitHub Actions` • `REST APIs` • `CI/CD` • `Python Automation` • `Workflow Automation`
+- Final-semester BCA at GLA University - CGPA 9.46/10
+- Open to **remote automation / AI systems / founding engineer** roles
+- Based in Yamunanagar, India (UTC+5:30) - available immediately
 
 ---
 
-# 🤖 What I'm Interested In
-
-```text
-Artificial Intelligence
-        │
-        ├── LLM Applications
-        ├── AI Automation
-        ├── Intelligent Workflows
-        └── AI Agents
-
-Automation
-        │
-        ├── GitHub Actions
-        ├── API Orchestration
-        ├── Scheduled Jobs
-        └── Self-Updating Systems
-
-Infrastructure
-        │
-        ├── Cloud
-        ├── DNS
-        ├── CDN
-        ├── Deployment
-        └── Serverless
-
-Engineering
-        │
-        ├── Problem Solving
-        ├── Experimentation
-        ├── Reverse Engineering
-        └── Performance Optimization
-```
-
----
-
-# 🚀 Featured Work
-
-### 🧠 AI & Automation
-
-Building systems that can **generate, process, analyze and update themselves** with minimal manual intervention.
-
-### ⚡ Developer Automation
-
-Using APIs, scripts and GitHub Actions to turn manual workflows into **repeatable automated pipelines**.
-
-### ☁️ Cloud & Web
-
-Building and deploying web applications while experimenting with modern cloud infrastructure, DNS, CDN and serverless platforms.
-
-### 🧪 Technical Experiments
-
-Some projects start with a very simple question:
-
-> **"Can I make this work?"**
-
-And that's usually enough reason to start building.
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/ErBharatMalhotra"><img src="https://github-readme-stats-gold-eta.vercel.app/api?username=ErBharatMalhotra&theme=tokyo-night&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="170"></a>
-
-<a href="https://github.com/ErBharatMalhotra"><img src="https://github-readme-stats-gold-eta.vercel.app/api/top-langs/?username=ErBharatMalhotra&theme=tokyo-night&show_icons=true&hide_border=true&langs_count=8&layout=compact" height="170"></a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats-theta.vercel.app?user=ErBharatMalhotra&theme=tokyo-night)
-
-</div>
-
-
-
-# 📈 What I'm Building Toward
-
-I want my projects to move beyond:
-
-**"A script that works."**
-
-toward:
-
-**"A system that keeps working."**
-
-That means:
-
-```text
-Manual
-  ↓
-Script
-  ↓
-Automation
-  ↓
-Scheduled Automation
-  ↓
-Self-Monitoring
-  ↓
-Self-Updating
-  ↓
-Self-Evolving System 🚀
-```
-
----
-
-# 🔭 Currently Exploring
-
-* 🧠 LLM-powered applications
-* 🤖 AI agents & autonomous workflows
-* ⚙️ Self-updating GitHub projects
-* 🔄 Event-driven automation
-* ☁️ Cloud-native architectures
-* 🐍 Advanced Python automation
-* 🌐 API-driven systems
-* 🧪 Local AI & open-source models
-* 🚀 Developer productivity tooling
-
----
-
-# 💻 Philosophy
-
-> ### **Don't build it manually if a machine can do it better.**
-
-I don't chase complexity for the sake of complexity.
-
-I prefer systems that are:
-
-**Simple → Reliable → Automated → Extensible**
-
----
-
-# 🎮 Beyond Code
-
-When I'm not building software:
-
-🎮 **Game Modding**
-🧩 **Reverse Engineering Concepts**
-🔬 **Technical Experiments**
-💡 **Finding Weird Solutions to Normal Problems**
-
-Basically...
-
-> **Give me a problem and I'll probably try to automate it. 😄**
-
----
-
-# 🌐 Connect
-
-<div align="center">
-
-### 👨‍💻 GitHub
-
-[![GitHub](https://img.shields.io/badge/Follow-ErBharatMalhotra-181717?style=for-the-badge&logo=github)](https://github.com/ErBharatMalhotra)
-
-<br><br>
-
-**⭐ If you find something useful here, consider starring the repository.**
-
-</div>
-
----
-
-<div align="center">
-
-### `BUILD → AUTOMATE → BREAK → FIX → IMPROVE → REPEAT`
-
-<br>
-
-**Made with curiosity, caffeine & questionable amounts of automation. ☕🤖**
-
-</div>
+<sub>I document what I build, I ship fast, and I learn faster.</sub>
