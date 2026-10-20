@@ -26,6 +26,8 @@ rebuilt by one daily pipeline.
 | **[ToolFactory](https://tools.bharatdn.com)** | 275+ browser tools. No signup, no server, no upload - works offline. | Vanilla JS, Web APIs |
 | **[Open Source AI Radar](https://github.com/ErBharatMalhotra/open-source-ai-radar)** | Scores 5,200+ OSS AI repos on Impact / Velocity / Health, refreshed 6x daily. MIT. | Python, GitHub API, Actions |
 
+Architecture write-up: [bharatdn-case-study](https://github.com/ErBharatMalhotra/bharatdn-case-study) - pipeline, validation rules, SEO decisions and screenshots.
+
 ## How I build
 
 - **One pipeline, many products.** Shared fetch -> validate -> build -> deploy logic, with per-hub config. A new hub is configuration, not a new codebase.
