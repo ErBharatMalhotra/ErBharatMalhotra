@@ -11,7 +11,7 @@ I build systems that run without me. In about four months I designed and shipped
 AI-scored PTE platform, six language hubs and an autonomous AI newsroom - all
 rebuilt by one daily pipeline.
 
-[Portfolio](https://me.bharatdn.com) · [Resume](https://me.bharatdn.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/bharat-malhotra-209039352/) · [Email](mailto:mr.bharatmalhotra@gmail.com)
+[Portfolio](https://me.bharatdn.com) · [Resume](https://me.bharatdn.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/bharatmalhotra7/) · [Email](mailto:mr.bharatmalhotra@gmail.com)
 
 ---
 
