@@ -40,7 +40,7 @@ Maintainer of **[Open Source AI Radar](https://github.com/ErBharatMalhotra/open-
 
 | Product | What it does | Stack |
 |---|---|---|
-| **[Open Source AI Radar](https://github.com/ErBharatMalhotra/open-source-ai-radar)** | Scores 9,830+ OSS AI repos on Impact / Velocity / Health, refreshed 6x daily. MIT. Live site + JSON/RSS API. | Python, GitHub GraphQL, Actions, Astro |
+| **[Open Source AI Radar](https://github.com/ErBharatMalhotra/open-source-ai-radar)** | Scores 10,000+ OSS AI repos on Impact / Velocity / Health, refreshed 6x daily. MIT. Live site + JSON/RSS API. | Python, GitHub GraphQL, Actions, Astro |
 | **[Bharat Digital Network](https://bharatdn.com)** | 13 subdomains + root: 330+ city guides, 6 language hubs, grammar, jobs, news, tools. One daily build pipeline. | Python, GitHub Actions, Cloudflare |
 | **[PTE Practice](https://pte.bharatdn.com)** | Full PTE practice bank with AI scoring, progress tracking and all task types. | Python, LLM APIs, static build |
 | **[Jobs Tracker](https://jobs.bharatdn.com)** | Government jobs, scholarships and exams - collected, verified and updated twice daily. | Python, GitHub Actions |
