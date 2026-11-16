@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ErBharatMalhotra"><img src="https://img.shields.io/github/followers/ErBharatMalhotra?label=Followers&style=for-the-badge&color=ff6b35&labelColor=0a0a0f" alt="Followers" /></a>
   <a href="https://bharatdn.com/"><img src="https://img.shields.io/badge/Portfolio-Live-ff6b35?style=for-the-badge&labelColor=0a0a0f" alt="Website" /></a>
-  <a href="https://twitter.com/ErBharatMalhotra"><img src="https://img.shields.io/badge/Twitter-@ErBharatMalhotra-ff6b35?style=for-the-badge&labelColor=0a0a0f" alt="Twitter" /></a>
+  
   
 </p>
 
@@ -191,7 +191,7 @@
 - **Week 4** (2026-10-25 to 2026-10-31): 294 contributions
 - **Week 3** (2026-11-01 to 2026-11-07): 355 contributions
 - **Week 2** (2026-11-08 to 2026-11-14): 411 contributions
-- **Week 1** (2026-11-15 to undefined): 151 contributions
+- **Week 1** (2026-11-15 to undefined): 152 contributions
 
 </details>
 
