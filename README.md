@@ -40,7 +40,7 @@
 ![Public Repos](https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=repos&theme=gta6)
 ![Followers](https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=followers&theme=gta6)
 ![Following](https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=following&theme=gta6)
-![Stars Given](https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=stars&label=Stars%20Given&theme=gta6)
+![Stars Given](https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=stars&label=Stars%20Given&v=2&theme=gta6)
 
 ![Top Language](https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=language&theme=gta6)
 
@@ -197,7 +197,7 @@
 - **Week 4** (2026-10-25 to 2026-10-31): 294 contributions
 - **Week 3** (2026-11-01 to 2026-11-07): 355 contributions
 - **Week 2** (2026-11-08 to 2026-11-14): 411 contributions
-- **Week 1** (2026-11-15 to undefined): 146 contributions
+- **Week 1** (2026-11-15 to undefined): 147 contributions
 
 </details>
 
