@@ -191,7 +191,7 @@
 - **Week 4** (2026-10-25 to 2026-10-31): 294 contributions
 - **Week 3** (2026-11-01 to 2026-11-07): 355 contributions
 - **Week 2** (2026-11-08 to 2026-11-14): 411 contributions
-- **Week 1** (2026-11-15 to undefined): 152 contributions
+- **Week 1** (2026-11-15 to undefined): 153 contributions
 
 </details>
 
@@ -199,7 +199,7 @@
 
 - **Web:** [https://bharatdn.com/](https://bharatdn.com/)
 - **GitHub:** [@ErBharatMalhotra](https://github.com/ErBharatMalhotra)
-- **Twitter / 𝕏:** [@ErBharatMalhotra](https://twitter.com/ErBharatMalhotra)
+
 
 
 - **Location:** India
