@@ -144,16 +144,10 @@
 
 | Repository | Stars | Language | Description |
 | :--- | :---: | :--- | :--- |
-| **[BNA-core](https://github.com/ErBharatMalhotra/BNA-core)** | ⭐ 1 | `JavaScript` | No description |
-| **[BharatDN](https://github.com/ErBharatMalhotra/BharatDN)** | ⭐ 1 | `HTML` | No description |
 | **[Bharat-Naukri-Alert](https://github.com/ErBharatMalhotra/Bharat-Naukri-Alert)** | ⭐ 14 | `JavaScript` | No description |
 | **[task-runner](https://github.com/ErBharatMalhotra/task-runner)** | ⭐ 13 | `HTML` | No description |
 | **[open-source-ai-radar](https://github.com/ErBharatMalhotra/open-source-ai-radar)** | ⭐ 19 | `Python` | No description |
-| **[Step-Ahead](https://github.com/ErBharatMalhotra/Step-Ahead)** | ⭐ 1 | `HTML` | No description |
-| **[Bharat-Multiseat](https://github.com/ErBharatMalhotra/Bharat-Multiseat)** | ⭐ 1 | `C#` | No description |
-| **[AI-Newsroom](https://github.com/ErBharatMalhotra/AI-Newsroom)** | ⭐ 1 | `JavaScript` | No description |
 | **[readmecraft](https://github.com/ErBharatMalhotra/readmecraft)** | ⭐ 3 | `TypeScript` | No description |
-| **[Step-Ahead-IELTS](https://github.com/ErBharatMalhotra/Step-Ahead-IELTS)** | ⭐ 1 | `JavaScript` | No description |
 
 ### 🏢 Organizations
 
@@ -197,7 +191,7 @@
 - **Week 4** (2026-10-25 to 2026-10-31): 294 contributions
 - **Week 3** (2026-11-01 to 2026-11-07): 355 contributions
 - **Week 2** (2026-11-08 to 2026-11-14): 411 contributions
-- **Week 1** (2026-11-15 to undefined): 147 contributions
+- **Week 1** (2026-11-15 to undefined): 148 contributions
 
 </details>
 
