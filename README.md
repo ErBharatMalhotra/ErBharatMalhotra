@@ -39,32 +39,6 @@
 
 <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=composite&include=snake,heatmap,trophy,activity,skill-radar,language-race,repo-constellation,code-pulse,contribution-mountain,tech-galaxy,contribution-flow,code-time-heatmap&theme=gta6" alt="GitHub Pulse Composite" />
 
-## 🔄 Scheduled Auto-Update (GitHub Action)
-
-<details>
-<summary><b>🤖 Automated Daily Refresh Workflow</b></summary>
-
-This profile is configured with [ReadmeCraft Action](https://github.com/ErBharatMalhotra/readmecraft) for 24-hour scheduled badge & snake refresh:
-
-```yaml
-name: ReadmeCraft Auto Refresh
-on:
-  schedule:
-    - cron: '0 0 * * *' # Every midnight
-  workflow_dispatch:
-
-jobs:
-  refresh:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Ping Badge Cache Invalidator
-        run: |
-          curl -s "https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=composite&v=$(date +%s)" > /dev/null
-```
-
-</details>
-
 ---
 
 <div align="center">
