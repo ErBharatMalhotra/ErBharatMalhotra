@@ -1,8 +1,15 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=name-banner&name=Bharat%20Malhotra&theme=gta6" alt="Bharat Malhotra — animated banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=typing&theme=gta6" alt="Animated typing intro" />
+</p>
+
 # Bharat Malhotra (since 2021)
 ### Founder · AI-native builder. I ship production web systems fast — solo.
-
 
 
 
@@ -78,7 +85,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=ff6b35&labelColor=0a0a0f" alt="JavaScript 36.4%" /> <img src="https://img.shields.io/badge/-Python-0a0a0f?style=flat-square&logo=python&logoColor=ff6b35&labelColor=0a0a0f" alt="Python 27.3%" /> <img src="https://img.shields.io/badge/-TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=ff6b35&labelColor=0a0a0f" alt="TypeScript 27.3%" /> <img src="https://img.shields.io/badge/-HTML-0a0a0f?style=flat-square&logo=html&logoColor=ff6b35&labelColor=0a0a0f" alt="HTML 9.1%" />
+<img src="https://img.shields.io/badge/-JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=ff6b35&labelColor=0a0a0f" alt="JavaScript 36.4%" /> <img src="https://img.shields.io/badge/-Python-0a0a0f?style=flat-square&logo=python&logoColor=ff6b35&labelColor=0a0a0f" alt="Python 27.3%" /> <img src="https://img.shields.io/badge/-TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=ff6b35&labelColor=0a0a0f" alt="TypeScript 27.3%" /> <img src="https://img.shields.io/badge/-HTML-0a0a0f?style=flat-square&logo=html5&logoColor=ff6b35&labelColor=0a0a0f" alt="HTML 9.1%" />
 
 </div>
 
@@ -99,21 +106,21 @@
 
 <div align="center">
 
-<details open><summary><b>🗣️ Languages (4)</b></summary>
+<details open><summary><b>🗣️ Languages (5)</b></summary>
 
-<img src="https://img.shields.io/badge/-JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=ff6b35&labelColor=0a0a0f" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Python-0a0a0f?style=flat-square&logo=python&logoColor=ff6b35&labelColor=0a0a0f" alt="Python" /> <img src="https://img.shields.io/badge/-TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=ff6b35&labelColor=0a0a0f" alt="TypeScript" /> <img src="https://img.shields.io/badge/-HTML-0a0a0f?style=flat-square&logo=html&logoColor=ff6b35&labelColor=0a0a0f" alt="HTML" />
-
-</details>
-
-<details open><summary><b>☁️ Infrastructure & DevOps (1)</b></summary>
-
-<img src="https://img.shields.io/badge/-Github%20Actions-0a0a0f?style=flat-square&logo=github%20actions&logoColor=ff6b35&labelColor=0a0a0f" alt="Github Actions" />
+<img src="https://img.shields.io/badge/-JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=ff6b35&labelColor=0a0a0f" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Python-0a0a0f?style=flat-square&logo=python&logoColor=ff6b35&labelColor=0a0a0f" alt="Python" /> <img src="https://img.shields.io/badge/-TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=ff6b35&labelColor=0a0a0f" alt="TypeScript" /> <img src="https://img.shields.io/badge/-HTML-0a0a0f?style=flat-square&logo=html&logoColor=ff6b35&labelColor=0a0a0f" alt="HTML" /> <img src="https://img.shields.io/badge/-GraphQL-0a0a0f?style=flat-square&logo=graphql&logoColor=ff6b35&labelColor=0a0a0f" alt="GraphQL" />
 
 </details>
 
-<details open><summary><b>🛠️ Other Skills (20)</b></summary>
+<details open><summary><b>☁️ Infrastructure & DevOps (3)</b></summary>
 
-<img src="https://img.shields.io/badge/-Ai-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Ai" /> <img src="https://img.shields.io/badge/-Ai%20Agents-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Ai Agents" /> <img src="https://img.shields.io/badge/-Analytics-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Analytics" /> <img src="https://img.shields.io/badge/-Artificial%20Intelligence-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Artificial Intelligence" /> <img src="https://img.shields.io/badge/-Astro-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Astro" /> <img src="https://img.shields.io/badge/-Automation-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Automation" /> <img src="https://img.shields.io/badge/-Pipeline-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Pipeline" /> <img src="https://img.shields.io/badge/-Static%20Site-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Static Site" /> <img src="https://img.shields.io/badge/-Llm-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Llm" /> <img src="https://img.shields.io/badge/-News-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="News" /> <img src="https://img.shields.io/badge/-Javascript-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Javascript" /> <img src="https://img.shields.io/badge/-Tools-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Tools" /> <img src="https://img.shields.io/badge/-Benchmarks-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Benchmarks" /> <img src="https://img.shields.io/badge/-Dashboard-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Dashboard" /> <img src="https://img.shields.io/badge/-Developer%20Analytics-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Developer Analytics" /> <img src="https://img.shields.io/badge/-Developer%20Tools-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Developer Tools" /> <img src="https://img.shields.io/badge/-Github%20Api-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Github Api" /> <img src="https://img.shields.io/badge/-Case%20Study-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Case Study" /> <img src="https://img.shields.io/badge/-Cloudflare-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Cloudflare" /> <img src="https://img.shields.io/badge/-Programmatic%20Seo-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Programmatic Seo" />
+<img src="https://img.shields.io/badge/-Github%20Actions-0a0a0f?style=flat-square&logo=github%20actions&logoColor=ff6b35&labelColor=0a0a0f" alt="Github Actions" /> <img src="https://img.shields.io/badge/-Docker-0a0a0f?style=flat-square&logo=docker&logoColor=ff6b35&labelColor=0a0a0f" alt="Docker" /> <img src="https://img.shields.io/badge/-CI%2FCD-0a0a0f?style=flat-square&logo=ci%2Fcd&logoColor=ff6b35&labelColor=0a0a0f" alt="CI/CD" />
+
+</details>
+
+<details open><summary><b>🛠️ Other Skills (17)</b></summary>
+
+<img src="https://img.shields.io/badge/-Astro-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Astro" /> <img src="https://img.shields.io/badge/-Education-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Education" /> <img src="https://img.shields.io/badge/-Ielts-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Ielts" /> <img src="https://img.shields.io/badge/-Practice-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Practice" /> <img src="https://img.shields.io/badge/-City%20Guides-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="City Guides" /> <img src="https://img.shields.io/badge/-Offline-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Offline" /> <img src="https://img.shields.io/badge/-Web%20App-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Web App" /> <img src="https://img.shields.io/badge/-Newsroom-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Newsroom" /> <img src="https://img.shields.io/badge/-Pte-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Pte" /> <img src="https://img.shields.io/badge/-Jobs-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Jobs" /> <img src="https://img.shields.io/badge/-English-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="English" /> <img src="https://img.shields.io/badge/-Grammar-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Grammar" /> <img src="https://img.shields.io/badge/-Git-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Git" /> <img src="https://img.shields.io/badge/-REST%20APIs-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="REST APIs" /> <img src="https://img.shields.io/badge/-Testing-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Testing" /> <img src="https://img.shields.io/badge/-System%20Design-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="System Design" /> <img src="https://img.shields.io/badge/-Microservices-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Microservices" />
 
 </details>
 
@@ -123,7 +130,7 @@
 
 <div align="center">
 
-[![open-source-ai-radar](https://img.shields.io/badge/open-source-ai-radar-Python-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/open-source-ai-radar) [![Bharat-Naukri-Alert](https://img.shields.io/badge/Bharat-Naukri-Alert-JavaScript-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/Bharat-Naukri-Alert) [![daily-prompt-public](https://img.shields.io/badge/daily-prompt-public-JavaScript-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/daily-prompt-public) [![task-runner](https://img.shields.io/badge/task-runner-HTML-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/task-runner) [![toolfactory-site](https://img.shields.io/badge/toolfactory-site-Code-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/toolfactory-site) [![Insight_Engine](https://img.shields.io/badge/Insight_Engine-JavaScript-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/Insight_Engine)
+[![open-source-ai-radar](https://img.shields.io/badge/open--source--ai--radar-Python-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/open-source-ai-radar) [![Bharat-Naukri-Alert](https://img.shields.io/badge/Bharat--Naukri--Alert-JavaScript-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/Bharat-Naukri-Alert) [![daily-prompt-public](https://img.shields.io/badge/daily--prompt--public-JavaScript-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/daily-prompt-public) [![task-runner](https://img.shields.io/badge/task--runner-HTML-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/task-runner) [![toolfactory-site](https://img.shields.io/badge/toolfactory--site-Text-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/toolfactory-site) [![Insight_Engine](https://img.shields.io/badge/Insight__Engine-JavaScript-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/Insight_Engine)
 
 </div>
 
@@ -135,7 +142,7 @@
 - **[Bharat-Naukri-Alert](https://github.com/ErBharatMalhotra/Bharat-Naukri-Alert)** — No description provided. `JavaScript`  ⭐ 14      
 - **[daily-prompt-public](https://github.com/ErBharatMalhotra/daily-prompt-public)** — The Daily Prompt - autonomous AI newspaper: workflows + built site (public runner). `JavaScript` [ai, automation, github-actions, llm, news] ⭐ 13      
 - **[task-runner](https://github.com/ErBharatMalhotra/task-runner)** — Scheduled task-runner - clones a private bundle, runs pipelines, publishes built artifacts. `HTML` [automation, github-actions, pipeline, static-site] ⭐ 13      
-- **[toolfactory-site](https://github.com/ErBharatMalhotra/toolfactory-site)** — Public site for ToolFactory - 275+ browser tools. `Code` [javascript, static-site, tools] ⭐ 12      
+- **[toolfactory-site](https://github.com/ErBharatMalhotra/toolfactory-site)** — Public site for ToolFactory - 275+ browser tools. `Text` [javascript, static-site, tools] ⭐ 12      
 - **[Insight_Engine](https://github.com/ErBharatMalhotra/Insight_Engine)** — No description provided. `JavaScript`  ⭐ 11      
 
 </details>
@@ -145,9 +152,9 @@
 | Repository | Stars | Language | Description |
 | :--- | :---: | :--- | :--- |
 | **[Bharat-Naukri-Alert](https://github.com/ErBharatMalhotra/Bharat-Naukri-Alert)** | ⭐ 14 | `JavaScript` | No description |
-| **[task-runner](https://github.com/ErBharatMalhotra/task-runner)** | ⭐ 13 | `HTML` | No description |
-| **[open-source-ai-radar](https://github.com/ErBharatMalhotra/open-source-ai-radar)** | ⭐ 20 | `Python` | No description |
-| **[readmecraft](https://github.com/ErBharatMalhotra/readmecraft)** | ⭐ 3 | `TypeScript` | No description |
+| **[task-runner](https://github.com/ErBharatMalhotra/task-runner)** | ⭐ 13 | `HTML` | Scheduled task-runner - clones a private bundle, runs pipelines, publishes built artifacts. |
+| **[open-source-ai-radar](https://github.com/ErBharatMalhotra/open-source-ai-radar)** | ⭐ 20 | `Python` | Scores 10,400+ open-source AI repos on Impact / Velocity / Health - refreshed 6x daily. |
+| **[readmecraft](https://github.com/ErBharatMalhotra/readmecraft)** | ⭐ 3 | `TypeScript` | Next-gen intelligent dual-mode GitHub README Studio for Developer Profiles & Repositories. Zero-typing ingestion from GitHub, 18 native SVG badges (no external deps), GitHub OAuth (your 5k req/hr token), direct Star button, and 1-click GitHolo/GitChronicle ecosystem widgets. |
 
 ### 🏢 Organizations
 
@@ -178,11 +185,11 @@
 <summary><b>Contribution Calendar (Heatmap)</b></summary>
 
 <div align="center">
-  <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=heatmap" alt="Contribution Heatmap" />
+  <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=heatmap&theme=gta6" alt="Contribution Heatmap" />
 </div>
 
 <div align="center">
-  <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=snake&v=14" alt="Contribution Snake" />
+  <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=snake&v=14&theme=gta6" alt="Contribution Snake" />
 </div>
 
 <details open>
@@ -191,7 +198,7 @@
 - **Week 4** (2026-10-25 to 2026-10-31): 294 contributions
 - **Week 3** (2026-11-01 to 2026-11-07): 355 contributions
 - **Week 2** (2026-11-08 to 2026-11-14): 411 contributions
-- **Week 1** (2026-11-15 to undefined): 196 contributions
+- **Week 1** (2026-11-15 to 2026-11-17): 202 contributions
 
 </details>
 
@@ -203,12 +210,6 @@
 
 
 - **Location:** India
-
----
-
-<div align="center">
-<sub>Generated with ❤️ by <a href="https://readme.bharatdn.com">ReadmeCraft</a> • Part of the <a href="https://bharatdn.com">BharatDN</a> Developer Ecosystem</sub>
-</div>
 
 ## 🎯 Skill Radar
 
