@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=typing&theme=gta6" alt="Animated typing intro" />
+  <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=typing&name=Bharat%20Malhotra&theme=gta6" alt="Animated typing intro" />
 </p>
 
 # Bharat Malhotra (since 2021)
@@ -26,7 +26,7 @@
 
 ---
 
-### 🌌 Holographic Telemetry & Live Cadence
+### 🛰️ Live Ecosystem
 
 <div align="center">
 
@@ -36,9 +36,9 @@
 
 </div>
 
-### 🎯 Current Status & Social Presence
+### 🎯 Current Status
 
-**:exploding_head: I may be slow to respond.**
+**I may be slow to respond.**
 
 ### 📈 Velocity & Metrics
 
@@ -76,8 +76,6 @@
 | **PR Review Contributions** | 0 |
 | **Repos Contributed To** | 23 |
 | **Account Created** | Jun 11, 2021 |
-| **Profile View Type** | PRIVATE |
-| **Sponsorable** | ❌ No |
 
 </details>
 
@@ -139,11 +137,11 @@
 <summary><b>Repository Details</b></summary>
 
 - **[open-source-ai-radar](https://github.com/ErBharatMalhotra/open-source-ai-radar)** — Scores 10,400+ open-source AI repos on Impact / Velocity / Health - refreshed 6x daily. `Python` [ai, ai-agents, analytics, artificial-intelligence, astro] ⭐ 20 🍴 2 📄 MIT    
-- **[Bharat-Naukri-Alert](https://github.com/ErBharatMalhotra/Bharat-Naukri-Alert)** — No description provided. `JavaScript`  ⭐ 14      
+- **[Bharat-Naukri-Alert](https://github.com/ErBharatMalhotra/Bharat-Naukri-Alert)**  `JavaScript`  ⭐ 14      
 - **[daily-prompt-public](https://github.com/ErBharatMalhotra/daily-prompt-public)** — The Daily Prompt - autonomous AI newspaper: workflows + built site (public runner). `JavaScript` [ai, automation, github-actions, llm, news] ⭐ 13      
 - **[task-runner](https://github.com/ErBharatMalhotra/task-runner)** — Scheduled task-runner - clones a private bundle, runs pipelines, publishes built artifacts. `HTML` [automation, github-actions, pipeline, static-site] ⭐ 13      
 - **[toolfactory-site](https://github.com/ErBharatMalhotra/toolfactory-site)** — Public site for ToolFactory - 275+ browser tools. `Text` [javascript, static-site, tools] ⭐ 12      
-- **[Insight_Engine](https://github.com/ErBharatMalhotra/Insight_Engine)** — No description provided. `JavaScript`  ⭐ 11      
+- **[Insight_Engine](https://github.com/ErBharatMalhotra/Insight_Engine)**  `JavaScript`  ⭐ 11      
 
 </details>
 
@@ -198,7 +196,7 @@
 - **Week 4** (2026-10-25 to 2026-10-31): 294 contributions
 - **Week 3** (2026-11-01 to 2026-11-07): 355 contributions
 - **Week 2** (2026-11-08 to 2026-11-14): 411 contributions
-- **Week 1** (2026-11-15 to 2026-11-17): 202 contributions
+- **Week 1** (2026-11-15 to 2026-11-17): 208 contributions
 
 </details>
 
@@ -211,9 +209,9 @@
 
 - **Location:** India
 
-## 🎯 Skill Radar
+## 🧭 Skill Radar
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=skill-radar&theme=gta6" alt="🎯 Skill Radar" />
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=skill-radar&theme=gta6" alt="🧭 Skill Radar" />
 
 ## 🏁 Language Evolution Race
 
@@ -231,9 +229,9 @@
 
 <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=contribution-mountain&theme=gta6" alt="🏔️ Contribution Mountain" />
 
-## 🌌 Tech Stack Galaxy
+## 🛠️ Tech Stack Galaxy
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=tech-galaxy&theme=gta6" alt="🌌 Tech Stack Galaxy" />
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=tech-galaxy&theme=gta6" alt="🛠️ Tech Stack Galaxy" />
 
 ## 🌊 Contribution Flow
 
@@ -243,9 +241,9 @@
 
 <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=code-time-heatmap&theme=gta6" alt="🕐 Code Time Heatmap" />
 
-## 🎯 GitHub Pulse (Composite)
+## 🧬 GitHub Pulse
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=composite&include=snake,heatmap,trophy,activity,skill-radar,language-race,repo-constellation,code-pulse,contribution-mountain,tech-galaxy,contribution-flow,code-time-heatmap&theme=gta6" alt="GitHub Pulse Composite" />
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=composite&include=snake,heatmap,trophy,activity,skill-radar,language-race,repo-constellation,code-pulse,contribution-mountain,tech-galaxy,contribution-flow,code-time-heatmap&theme=gta6" alt="GitHub Pulse" />
 
 ---
 
