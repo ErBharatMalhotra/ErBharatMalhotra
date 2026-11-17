@@ -196,7 +196,7 @@
 - **Week 4** (2026-10-25 to 2026-10-31): 294 contributions
 - **Week 3** (2026-11-01 to 2026-11-07): 355 contributions
 - **Week 2** (2026-11-08 to 2026-11-14): 411 contributions
-- **Week 1** (2026-11-15 to 2026-11-17): 208 contributions
+- **Week 1** (2026-11-15 to 2026-11-17): 211 contributions
 
 </details>
 
@@ -211,35 +211,35 @@
 
 ## 🧭 Skill Radar
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=skill-radar&theme=gta6" alt="🧭 Skill Radar" />
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=skill-radar&name=Bharat%20Malhotra&theme=gta6" alt="🧭 Skill Radar" />
 
 ## 🏁 Language Evolution Race
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=language-race&theme=gta6" alt="🏁 Language Evolution Race" />
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=language-race&name=Bharat%20Malhotra&theme=gta6" alt="🏁 Language Evolution Race" />
 
 ## 🌌 Repository Constellation
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=repo-constellation&theme=gta6" alt="🌌 Repository Constellation" />
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=repo-constellation&name=Bharat%20Malhotra&theme=gta6" alt="🌌 Repository Constellation" />
 
 ## 💓 Code Pulse
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=code-pulse&theme=gta6" alt="💓 Code Pulse" />
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=code-pulse&name=Bharat%20Malhotra&theme=gta6" alt="💓 Code Pulse" />
 
 ## 🏔️ Contribution Mountain
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=contribution-mountain&theme=gta6" alt="🏔️ Contribution Mountain" />
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=contribution-mountain&name=Bharat%20Malhotra&theme=gta6" alt="🏔️ Contribution Mountain" />
 
 ## 🛠️ Tech Stack Galaxy
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=tech-galaxy&theme=gta6" alt="🛠️ Tech Stack Galaxy" />
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=tech-galaxy&name=Bharat%20Malhotra&theme=gta6" alt="🛠️ Tech Stack Galaxy" />
 
 ## 🌊 Contribution Flow
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=contribution-flow&theme=gta6" alt="🌊 Contribution Flow" />
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=contribution-flow&name=Bharat%20Malhotra&theme=gta6" alt="🌊 Contribution Flow" />
 
 ## 🕐 Code Time Heatmap
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=code-time-heatmap&theme=gta6" alt="🕐 Code Time Heatmap" />
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=code-time-heatmap&name=Bharat%20Malhotra&theme=gta6" alt="🕐 Code Time Heatmap" />
 
 ## 🧬 GitHub Pulse
 
