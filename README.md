@@ -65,7 +65,7 @@
 | **Longest Streak** | 90 days |
 | **Public Repositories** | 50 |
 | **Total Disk Usage** | 5.5 MB |
-| **Followers** | 538 |
+| **Followers** | 539 |
 | **Following** | 2.3K |
 | **Stars Given** | 53 |
 | **Watching** | 19 |
@@ -118,7 +118,7 @@
 
 <details open><summary><b>🛠️ Other Skills (17)</b></summary>
 
-<img src="https://img.shields.io/badge/-Astro-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Astro" /> <img src="https://img.shields.io/badge/-Education-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Education" /> <img src="https://img.shields.io/badge/-Ielts-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Ielts" /> <img src="https://img.shields.io/badge/-Practice-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Practice" /> <img src="https://img.shields.io/badge/-City%20Guides-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="City Guides" /> <img src="https://img.shields.io/badge/-Offline-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Offline" /> <img src="https://img.shields.io/badge/-Web%20App-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Web App" /> <img src="https://img.shields.io/badge/-Newsroom-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Newsroom" /> <img src="https://img.shields.io/badge/-Pte-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Pte" /> <img src="https://img.shields.io/badge/-Jobs-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Jobs" /> <img src="https://img.shields.io/badge/-English-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="English" /> <img src="https://img.shields.io/badge/-Grammar-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Grammar" /> <img src="https://img.shields.io/badge/-Git-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Git" /> <img src="https://img.shields.io/badge/-REST%20APIs-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="REST APIs" /> <img src="https://img.shields.io/badge/-Testing-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Testing" /> <img src="https://img.shields.io/badge/-System%20Design-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="System Design" /> <img src="https://img.shields.io/badge/-Microservices-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Microservices" />
+<img src="https://img.shields.io/badge/-Astro-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Astro" /> <img src="https://img.shields.io/badge/-Badges-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Badges" /> <img src="https://img.shields.io/badge/-Github%20Profile-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Github Profile" /> <img src="https://img.shields.io/badge/-Nextjs-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Nextjs" /> <img src="https://img.shields.io/badge/-Education-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Education" /> <img src="https://img.shields.io/badge/-Ielts-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Ielts" /> <img src="https://img.shields.io/badge/-Practice-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Practice" /> <img src="https://img.shields.io/badge/-City%20Guides-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="City Guides" /> <img src="https://img.shields.io/badge/-Offline-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Offline" /> <img src="https://img.shields.io/badge/-Web%20App-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Web App" /> <img src="https://img.shields.io/badge/-Newsroom-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Newsroom" /> <img src="https://img.shields.io/badge/-Pte-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Pte" /> <img src="https://img.shields.io/badge/-Jobs-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Jobs" /> <img src="https://img.shields.io/badge/-English-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="English" /> <img src="https://img.shields.io/badge/-Grammar-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Grammar" /> <img src="https://img.shields.io/badge/-Git-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Git" /> <img src="https://img.shields.io/badge/-REST%20APIs-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="REST APIs" />
 
 </details>
 
@@ -152,17 +152,7 @@
 | **[Bharat-Naukri-Alert](https://github.com/ErBharatMalhotra/Bharat-Naukri-Alert)** | ⭐ 14 | `JavaScript` | No description |
 | **[task-runner](https://github.com/ErBharatMalhotra/task-runner)** | ⭐ 13 | `HTML` | Scheduled task-runner - clones a private bundle, runs pipelines, publishes built artifacts. |
 | **[open-source-ai-radar](https://github.com/ErBharatMalhotra/open-source-ai-radar)** | ⭐ 20 | `Python` | Scores 10,400+ open-source AI repos on Impact / Velocity / Health - refreshed 6x daily. |
-| **[readmecraft](https://github.com/ErBharatMalhotra/readmecraft)** | ⭐ 3 | `TypeScript` | Next-gen intelligent dual-mode GitHub README Studio for Developer Profiles & Repositories. Zero-typing ingestion from GitHub, 18 native SVG badges (no external deps), GitHub OAuth (your 5k req/hr token), direct Star button, and 1-click GitHolo/GitChronicle ecosystem widgets. |
-
-### 🏢 Organizations
-
-<div align="center">
-
-[![Delivery Plus](https://avatars.githubusercontent.com/u/338868012?v=4&s=64)](https://github.com/Delivery-Plus0)
-
-</div>
-
-- **Delivery Plus** — [Delivery-Plus0](https://github.com/Delivery-Plus0)
+| **[readmecraft](https://github.com/ErBharatMalhotra/readmecraft)** | ⭐ 3 | `TypeScript` | Dual-mode GitHub README studio: real profile & repo data in, polished README out. 39 native SVG badges, 63 themes, GitHub OAuth, one-click deploy. No shields.io. |
 
 ### 📊 Contribution Breakdown
 
@@ -196,7 +186,7 @@
 - **Week 4** (2026-10-25 to 2026-10-31): 294 contributions
 - **Week 3** (2026-11-01 to 2026-11-07): 355 contributions
 - **Week 2** (2026-11-08 to 2026-11-14): 411 contributions
-- **Week 1** (2026-11-15 to 2026-11-17): 219 contributions
+- **Week 1** (2026-11-15 to 2026-11-17): 232 contributions
 
 </details>
 
@@ -243,7 +233,33 @@
 
 ## 🧬 GitHub Pulse
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=composite&include=snake,heatmap,trophy,activity,skill-radar,language-race,repo-constellation,code-pulse,contribution-mountain,tech-galaxy,contribution-flow,code-time-heatmap&theme=gta6" alt="GitHub Pulse" />
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=composite&include=snake,heatmap,trophy,activity,skill-radar,language-race,repo-constellation,code-pulse,contribution-mountain,tech-galaxy,contribution-flow,code-time-heatmap,stats&theme=gta6" alt="GitHub Pulse" />
+
+## 🔄 Scheduled Auto-Update (GitHub Action)
+
+<details>
+<summary><b>🤖 Automated Daily Refresh Workflow</b></summary>
+
+This profile is configured with [ReadmeCraft Action](https://github.com/ErBharatMalhotra/readmecraft) for 24-hour scheduled badge & snake refresh:
+
+```yaml
+name: ReadmeCraft Auto Refresh
+on:
+  schedule:
+    - cron: '0 0 * * *' # Every midnight
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Ping Badge Cache Invalidator
+        run: |
+          curl -s "https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=composite&v=$(date +%s)" > /dev/null
+```
+
+</details>
 
 ---
 
