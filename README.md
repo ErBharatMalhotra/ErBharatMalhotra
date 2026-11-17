@@ -54,16 +54,16 @@
 | Metric | Value |
 | :--- | :--- |
 | **Total Contributions (1yr)** | 3.9K |
-| **Current Streak** | 89 days |
-| **Longest Streak** | 89 days |
+| **Current Streak** | 90 days |
+| **Longest Streak** | 90 days |
 | **Public Repositories** | 50 |
-| **Total Disk Usage** | 5.4 MB |
-| **Followers** | 526 |
+| **Total Disk Usage** | 5.5 MB |
+| **Followers** | 538 |
 | **Following** | 2.3K |
 | **Stars Given** | 53 |
 | **Watching** | 19 |
 | **Public Gists** | 0 |
-| **Commit Contributions** | 3.8K |
+| **Commit Contributions** | 3.9K |
 | **Issue Contributions** | 9 |
 | **PR Contributions** | 6 |
 | **PR Review Contributions** | 0 |
@@ -131,7 +131,7 @@
 <details open>
 <summary><b>Repository Details</b></summary>
 
-- **[open-source-ai-radar](https://github.com/ErBharatMalhotra/open-source-ai-radar)** — Scores 10,300+ open-source AI repos on Impact / Velocity / Health - refreshed 6x daily. `Python` [ai, ai-agents, analytics, artificial-intelligence, astro] ⭐ 20 🍴 2 📄 MIT    
+- **[open-source-ai-radar](https://github.com/ErBharatMalhotra/open-source-ai-radar)** — Scores 10,400+ open-source AI repos on Impact / Velocity / Health - refreshed 6x daily. `Python` [ai, ai-agents, analytics, artificial-intelligence, astro] ⭐ 20 🍴 2 📄 MIT    
 - **[Bharat-Naukri-Alert](https://github.com/ErBharatMalhotra/Bharat-Naukri-Alert)** — No description provided. `JavaScript`  ⭐ 14      
 - **[daily-prompt-public](https://github.com/ErBharatMalhotra/daily-prompt-public)** — The Daily Prompt - autonomous AI newspaper: workflows + built site (public runner). `JavaScript` [ai, automation, github-actions, llm, news] ⭐ 13      
 - **[task-runner](https://github.com/ErBharatMalhotra/task-runner)** — Scheduled task-runner - clones a private bundle, runs pipelines, publishes built artifacts. `HTML` [automation, github-actions, pipeline, static-site] ⭐ 13      
@@ -166,7 +166,7 @@
 
 | Type | Count |
 | :--- | :---: |
-| **Commits** | 3.8K |
+| **Commits** | 3.9K |
 | **Issues** | 9 |
 | **Pull Requests** | 6 |
 | **PR Reviews** | 0 |
@@ -191,7 +191,7 @@
 - **Week 4** (2026-10-25 to 2026-10-31): 294 contributions
 - **Week 3** (2026-11-01 to 2026-11-07): 355 contributions
 - **Week 2** (2026-11-08 to 2026-11-14): 411 contributions
-- **Week 1** (2026-11-15 to undefined): 157 contributions
+- **Week 1** (2026-11-15 to undefined): 195 contributions
 
 </details>
 
@@ -244,7 +244,33 @@
 
 ## 🎯 GitHub Pulse (Composite)
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=composite&include=snake,heatmap,trophy,activity,skill-radar,language-race,repo-constellation,code-pulse,contribution-mountain,tech-galaxy,contribution-flow,code-time-heatmap&theme=gta6" alt="GitHub Pulse Composite" />
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=composite&include=snake,heatmap,trophy,activity,skill-radar,language-race,repo-constellation,code-pulse,contribution-mountain,tech-galaxy,contribution-flow,code-time-heatmap,stats&theme=gta6" alt="GitHub Pulse Composite" />
+
+## 🔄 Scheduled Auto-Update (GitHub Action)
+
+<details>
+<summary><b>🤖 Automated Daily Refresh Workflow</b></summary>
+
+This profile is configured with [ReadmeCraft Action](https://github.com/ErBharatMalhotra/readmecraft) for 24-hour scheduled badge & snake refresh:
+
+```yaml
+name: ReadmeCraft Auto Refresh
+on:
+  schedule:
+    - cron: '0 0 * * *' # Every midnight
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Ping Badge Cache Invalidator
+        run: |
+          curl -s "https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=composite&v=$(date +%s)" > /dev/null
+```
+
+</details>
 
 ---
 
