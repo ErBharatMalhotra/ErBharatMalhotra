@@ -191,7 +191,7 @@
 - **Week 4** (2026-10-25 to 2026-10-31): 294 contributions
 - **Week 3** (2026-11-01 to 2026-11-07): 355 contributions
 - **Week 2** (2026-11-08 to 2026-11-14): 411 contributions
-- **Week 1** (2026-11-15 to undefined): 195 contributions
+- **Week 1** (2026-11-15 to undefined): 196 contributions
 
 </details>
 
@@ -244,33 +244,7 @@
 
 ## 🎯 GitHub Pulse (Composite)
 
-<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=composite&include=snake,heatmap,trophy,activity,skill-radar,language-race,repo-constellation,code-pulse,contribution-mountain,tech-galaxy,contribution-flow,code-time-heatmap,stats&theme=gta6" alt="GitHub Pulse Composite" />
-
-## 🔄 Scheduled Auto-Update (GitHub Action)
-
-<details>
-<summary><b>🤖 Automated Daily Refresh Workflow</b></summary>
-
-This profile is configured with [ReadmeCraft Action](https://github.com/ErBharatMalhotra/readmecraft) for 24-hour scheduled badge & snake refresh:
-
-```yaml
-name: ReadmeCraft Auto Refresh
-on:
-  schedule:
-    - cron: '0 0 * * *' # Every midnight
-  workflow_dispatch:
-
-jobs:
-  refresh:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Ping Badge Cache Invalidator
-        run: |
-          curl -s "https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=composite&v=$(date +%s)" > /dev/null
-```
-
-</details>
+<img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=composite&include=snake,heatmap,trophy,activity,skill-radar,language-race,repo-constellation,code-pulse,contribution-mountain,tech-galaxy,contribution-flow,code-time-heatmap&theme=gta6" alt="GitHub Pulse Composite" />
 
 ---
 
