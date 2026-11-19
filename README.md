@@ -4,6 +4,8 @@
   <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=name-banner&name=Bharat%20Malhotra&theme=gta6" alt="Bharat Malhotra — animated banner" width="100%" />
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/india_private/ErBharatMalhotra.svg)](https://user-badge.committers.top/india_private/ErBharatMalhotra)
+
 <p align="center">
   <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=typing&name=Bharat%20Malhotra&theme=gta6" alt="Animated typing intro" />
 </p>
