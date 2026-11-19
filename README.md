@@ -4,9 +4,6 @@
   <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=name-banner&name=Bharat%20Malhotra&theme=gta6" alt="Bharat Malhotra — animated banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=typing&name=Bharat%20Malhotra&theme=gta6" alt="Animated typing intro" />
-</p>
 
 # Bharat Malhotra (since 2021)
 ### Founder · AI-native builder. I ship production web systems fast — solo.
@@ -60,21 +57,21 @@
 
 | Metric | Value |
 | :--- | :--- |
-| **Total Contributions (1yr)** | 3.9K |
-| **Current Streak** | 90 days |
-| **Longest Streak** | 90 days |
-| **Public Repositories** | 50 |
-| **Total Disk Usage** | 5.5 MB |
-| **Followers** | 539 |
+| **Total Contributions (1yr)** | 4K |
+| **Current Streak** | 92 days |
+| **Longest Streak** | 92 days |
+| **Public Repositories** | 26 |
+| **Total Disk Usage** | 3.4 GB |
+| **Followers** | 551 |
 | **Following** | 2.3K |
 | **Stars Given** | 53 |
 | **Watching** | 19 |
 | **Public Gists** | 0 |
-| **Commit Contributions** | 3.9K |
+| **Commit Contributions** | 1.7K |
 | **Issue Contributions** | 9 |
-| **PR Contributions** | 6 |
+| **PR Contributions** | 9 |
 | **PR Review Contributions** | 0 |
-| **Repos Contributed To** | 23 |
+| **Repos Contributed To** | 13 |
 | **Account Created** | Jun 11, 2021 |
 
 </details>
@@ -83,7 +80,7 @@
 
 <div align="center">
 
-<img src="https://readme.bharatdn.com/api/badges?type=skill&name=JavaScript&theme=gta6" alt="JavaScript 36.4%" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Python&theme=gta6" alt="Python 27.3%" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=TypeScript&theme=gta6" alt="TypeScript 27.3%" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=HTML&theme=gta6" alt="HTML 9.1%" />
+<img src="https://readme.bharatdn.com/api/badges?type=skill&name=TypeScript&theme=gta6" alt="TypeScript 65.6%" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Python&theme=gta6" alt="Python 22.9%" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Astro&theme=gta6" alt="Astro 7.2%" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=JavaScript&theme=gta6" alt="JavaScript 2.4%" />
 
 </div>
 
@@ -92,11 +89,13 @@
 
 | Language | Percentage | Estimated Bytes |
 | :--- | :---: | :--- |
-| **JavaScript** | 36.4% | 195.3 KB |
-| **Python** | 27.3% | 146.5 KB |
-| **TypeScript** | 27.3% | 146.5 KB |
-| **HTML** | 9.1% | 48.8 KB |
-| **Total** | **100%** | 537.1 KB |
+| **TypeScript** | 65.6% | 1.2 MB |
+| **Python** | 22.9% | 435.6 KB |
+| **Astro** | 7.2% | 136.8 KB |
+| **JavaScript** | 2.4% | 45.0 KB |
+| **CSS** | 1.5% | 28.2 KB |
+| **HTML** | 0.3% | 6.0 KB |
+| **Total** | **100%** | 1.9 MB |
 
 </details>
 
@@ -149,10 +148,10 @@
 
 | Repository | Stars | Language | Description |
 | :--- | :---: | :--- | :--- |
-| **[Bharat-Naukri-Alert](https://github.com/ErBharatMalhotra/Bharat-Naukri-Alert)** | ⭐ 14 | `JavaScript` | No description |
-| **[task-runner](https://github.com/ErBharatMalhotra/task-runner)** | ⭐ 13 | `HTML` | Scheduled task-runner - clones a private bundle, runs pipelines, publishes built artifacts. |
 | **[open-source-ai-radar](https://github.com/ErBharatMalhotra/open-source-ai-radar)** | ⭐ 20 | `Python` | Scores 10,400+ open-source AI repos on Impact / Velocity / Health - refreshed 6x daily. |
-| **[readmecraft](https://github.com/ErBharatMalhotra/readmecraft)** | ⭐ 3 | `TypeScript` | Dual-mode GitHub README studio: real profile & repo data in, polished README out. 39 native SVG badges, 63 themes, GitHub OAuth, one-click deploy. No shields.io. |
+| **[Bharat-Naukri-Alert](https://github.com/ErBharatMalhotra/Bharat-Naukri-Alert)** | ⭐ 14 | `JavaScript` | No description |
+| **[daily-prompt-public](https://github.com/ErBharatMalhotra/daily-prompt-public)** | ⭐ 13 | `JavaScript` | The Daily Prompt - autonomous AI newspaper: workflows + built site (public runner). |
+| **[task-runner](https://github.com/ErBharatMalhotra/task-runner)** | ⭐ 13 | `HTML` | Scheduled task-runner - clones a private bundle, runs pipelines, publishes built artifacts. |
 
 ### 📊 Contribution Breakdown
 
@@ -161,11 +160,11 @@
 
 | Type | Count |
 | :--- | :---: |
-| **Commits** | 3.9K |
+| **Commits** | 1.7K |
 | **Issues** | 9 |
-| **Pull Requests** | 6 |
+| **Pull Requests** | 9 |
 | **PR Reviews** | 0 |
-| **Repositories** | 23 |
+| **Repositories** | 13 |
 
 </details>
 
@@ -186,7 +185,7 @@
 - **Week 4** (2026-10-25 to 2026-10-31): 294 contributions
 - **Week 3** (2026-11-01 to 2026-11-07): 355 contributions
 - **Week 2** (2026-11-08 to 2026-11-14): 411 contributions
-- **Week 1** (2026-11-15 to 2026-11-17): 232 contributions
+- **Week 1** (2026-11-15 to 2026-11-19): 336 contributions
 
 </details>
 
