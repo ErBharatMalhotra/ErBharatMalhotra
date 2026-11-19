@@ -14,8 +14,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/ErBharatMalhotra"><img src="https://img.shields.io/github/followers/ErBharatMalhotra?label=Followers&style=for-the-badge&color=ff6b35&labelColor=0a0a0f" alt="Followers" /></a>
-  <a href="https://bharatdn.com/"><img src="https://img.shields.io/badge/Portfolio-Live-ff6b35?style=for-the-badge&labelColor=0a0a0f" alt="Website" /></a>
+  <a href="https://github.com/ErBharatMalhotra"><img src="https://readme.bharatdn.com/api/badges?username=ErBharatMalhotra&type=followers&theme=gta6" alt="Followers" /></a>
+  <a href="https://bharatdn.com/"><img src="https://readme.bharatdn.com/api/badges?type=chip&label=Portfolio&value=Live&theme=gta6" alt="Website" /></a>
   
   
 </p>
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=ff6b35&labelColor=0a0a0f" alt="JavaScript 36.4%" /> <img src="https://img.shields.io/badge/-Python-0a0a0f?style=flat-square&logo=python&logoColor=ff6b35&labelColor=0a0a0f" alt="Python 27.3%" /> <img src="https://img.shields.io/badge/-TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=ff6b35&labelColor=0a0a0f" alt="TypeScript 27.3%" /> <img src="https://img.shields.io/badge/-HTML-0a0a0f?style=flat-square&logo=html5&logoColor=ff6b35&labelColor=0a0a0f" alt="HTML 9.1%" />
+<img src="https://readme.bharatdn.com/api/badges?type=skill&name=JavaScript&theme=gta6" alt="JavaScript 36.4%" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Python&theme=gta6" alt="Python 27.3%" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=TypeScript&theme=gta6" alt="TypeScript 27.3%" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=HTML&theme=gta6" alt="HTML 9.1%" />
 
 </div>
 
@@ -106,19 +106,19 @@
 
 <details open><summary><b>🗣️ Languages (5)</b></summary>
 
-<img src="https://img.shields.io/badge/-JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=ff6b35&labelColor=0a0a0f" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Python-0a0a0f?style=flat-square&logo=python&logoColor=ff6b35&labelColor=0a0a0f" alt="Python" /> <img src="https://img.shields.io/badge/-TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=ff6b35&labelColor=0a0a0f" alt="TypeScript" /> <img src="https://img.shields.io/badge/-HTML-0a0a0f?style=flat-square&logo=html&logoColor=ff6b35&labelColor=0a0a0f" alt="HTML" /> <img src="https://img.shields.io/badge/-GraphQL-0a0a0f?style=flat-square&logo=graphql&logoColor=ff6b35&labelColor=0a0a0f" alt="GraphQL" />
+<img src="https://readme.bharatdn.com/api/badges?type=skill&name=JavaScript&theme=gta6" alt="JavaScript" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Python&theme=gta6" alt="Python" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=TypeScript&theme=gta6" alt="TypeScript" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=HTML&theme=gta6" alt="HTML" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=GraphQL&theme=gta6" alt="GraphQL" />
 
 </details>
 
 <details open><summary><b>☁️ Infrastructure & DevOps (3)</b></summary>
 
-<img src="https://img.shields.io/badge/-Github%20Actions-0a0a0f?style=flat-square&logo=github%20actions&logoColor=ff6b35&labelColor=0a0a0f" alt="Github Actions" /> <img src="https://img.shields.io/badge/-Docker-0a0a0f?style=flat-square&logo=docker&logoColor=ff6b35&labelColor=0a0a0f" alt="Docker" /> <img src="https://img.shields.io/badge/-CI%2FCD-0a0a0f?style=flat-square&logo=ci%2Fcd&logoColor=ff6b35&labelColor=0a0a0f" alt="CI/CD" />
+<img src="https://readme.bharatdn.com/api/badges?type=skill&name=Github+Actions&theme=gta6" alt="Github Actions" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Docker&theme=gta6" alt="Docker" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=CI%2FCD&theme=gta6" alt="CI/CD" />
 
 </details>
 
 <details open><summary><b>🛠️ Other Skills (17)</b></summary>
 
-<img src="https://img.shields.io/badge/-Astro-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Astro" /> <img src="https://img.shields.io/badge/-Badges-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Badges" /> <img src="https://img.shields.io/badge/-Github%20Profile-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Github Profile" /> <img src="https://img.shields.io/badge/-Nextjs-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Nextjs" /> <img src="https://img.shields.io/badge/-Education-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Education" /> <img src="https://img.shields.io/badge/-Ielts-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Ielts" /> <img src="https://img.shields.io/badge/-Practice-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Practice" /> <img src="https://img.shields.io/badge/-City%20Guides-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="City Guides" /> <img src="https://img.shields.io/badge/-Offline-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Offline" /> <img src="https://img.shields.io/badge/-Web%20App-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Web App" /> <img src="https://img.shields.io/badge/-Newsroom-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Newsroom" /> <img src="https://img.shields.io/badge/-Pte-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Pte" /> <img src="https://img.shields.io/badge/-Jobs-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Jobs" /> <img src="https://img.shields.io/badge/-English-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="English" /> <img src="https://img.shields.io/badge/-Grammar-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Grammar" /> <img src="https://img.shields.io/badge/-Git-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="Git" /> <img src="https://img.shields.io/badge/-REST%20APIs-0a0a0f?style=flat-square&logoColor=ff6b35&labelColor=0a0a0f" alt="REST APIs" />
+<img src="https://readme.bharatdn.com/api/badges?type=skill&name=Astro&theme=gta6" alt="Astro" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Badges&theme=gta6" alt="Badges" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Github+Profile&theme=gta6" alt="Github Profile" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Nextjs&theme=gta6" alt="Nextjs" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Education&theme=gta6" alt="Education" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Ielts&theme=gta6" alt="Ielts" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Practice&theme=gta6" alt="Practice" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=City+Guides&theme=gta6" alt="City Guides" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Offline&theme=gta6" alt="Offline" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Web+App&theme=gta6" alt="Web App" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Newsroom&theme=gta6" alt="Newsroom" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Pte&theme=gta6" alt="Pte" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Jobs&theme=gta6" alt="Jobs" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=English&theme=gta6" alt="English" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Grammar&theme=gta6" alt="Grammar" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=Git&theme=gta6" alt="Git" /> <img src="https://readme.bharatdn.com/api/badges?type=skill&name=REST+APIs&theme=gta6" alt="REST APIs" />
 
 </details>
 
@@ -128,7 +128,7 @@
 
 <div align="center">
 
-[![open-source-ai-radar](https://img.shields.io/badge/open--source--ai--radar-Python-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/open-source-ai-radar) [![Bharat-Naukri-Alert](https://img.shields.io/badge/Bharat--Naukri--Alert-JavaScript-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/Bharat-Naukri-Alert) [![daily-prompt-public](https://img.shields.io/badge/daily--prompt--public-JavaScript-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/daily-prompt-public) [![task-runner](https://img.shields.io/badge/task--runner-HTML-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/task-runner) [![toolfactory-site](https://img.shields.io/badge/toolfactory--site-Text-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/toolfactory-site) [![Insight_Engine](https://img.shields.io/badge/Insight__Engine-JavaScript-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/ErBharatMalhotra/Insight_Engine)
+[![open-source-ai-radar](https://readme.bharatdn.com/api/badges?type=chip&label=open-source-ai-radar&value=Python&theme=gta6)](https://github.com/ErBharatMalhotra/open-source-ai-radar) [![Bharat-Naukri-Alert](https://readme.bharatdn.com/api/badges?type=chip&label=Bharat-Naukri-Alert&value=JavaScript&theme=gta6)](https://github.com/ErBharatMalhotra/Bharat-Naukri-Alert) [![daily-prompt-public](https://readme.bharatdn.com/api/badges?type=chip&label=daily-prompt-public&value=JavaScript&theme=gta6)](https://github.com/ErBharatMalhotra/daily-prompt-public) [![task-runner](https://readme.bharatdn.com/api/badges?type=chip&label=task-runner&value=HTML&theme=gta6)](https://github.com/ErBharatMalhotra/task-runner) [![toolfactory-site](https://readme.bharatdn.com/api/badges?type=chip&label=toolfactory-site&value=Text&theme=gta6)](https://github.com/ErBharatMalhotra/toolfactory-site) [![Insight_Engine](https://readme.bharatdn.com/api/badges?type=chip&label=Insight_Engine&value=JavaScript&theme=gta6)](https://github.com/ErBharatMalhotra/Insight_Engine)
 
 </div>
 
