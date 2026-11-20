@@ -7,36 +7,36 @@
   </style>
   <rect width="350" height="260" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
   <text x="40" y="35" fill="#e6edf3" font-family="Arial,sans-serif" font-size="16" font-weight="bold">Top Languages</text>
-  <text x="40" y="55" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">26 repos</text>
+  <text x="40" y="55" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">28 repos</text>
   <line x1="30" y1="68" x2="320" y2="68" stroke="#30363d" stroke-width="1"/>
     <g class="row" style="animation-delay:0s">
-      <text x="40" y="90" fill="#e6edf3" font-family="Arial,sans-serif" font-size="12">JavaScript</text>
-      <text x="310" y="90" fill="#8b949e" font-family="Arial,sans-serif" font-size="11" text-anchor="end">35.3%</text>
+      <text x="40" y="90" fill="#e6edf3" font-family="Arial,sans-serif" font-size="12">Python</text>
+      <text x="310" y="90" fill="#8b949e" font-family="Arial,sans-serif" font-size="11" text-anchor="end">33.3%</text>
       <rect x="40" y="94" width="230" height="12" rx="6" fill="#30363d"/>
-      <rect x="40" y="94" width="81.1764705882353" height="12" rx="6" fill="#f1e05a"/>
+      <rect x="40" y="94" width="76.66666666666664" height="12" rx="6" fill="#3572A5"/>
     </g>
     <g class="row" style="animation-delay:0.08s">
-      <text x="40" y="120" fill="#e6edf3" font-family="Arial,sans-serif" font-size="12">Python</text>
-      <text x="310" y="120" fill="#8b949e" font-family="Arial,sans-serif" font-size="11" text-anchor="end">29.4%</text>
+      <text x="40" y="120" fill="#e6edf3" font-family="Arial,sans-serif" font-size="12">JavaScript</text>
+      <text x="310" y="120" fill="#8b949e" font-family="Arial,sans-serif" font-size="11" text-anchor="end">33.3%</text>
       <rect x="40" y="124" width="230" height="12" rx="6" fill="#30363d"/>
-      <rect x="40" y="124" width="67.64705882352942" height="12" rx="6" fill="#3572A5"/>
+      <rect x="40" y="124" width="76.66666666666664" height="12" rx="6" fill="#f1e05a"/>
     </g>
     <g class="row" style="animation-delay:0.16s">
       <text x="40" y="150" fill="#e6edf3" font-family="Arial,sans-serif" font-size="12">TypeScript</text>
-      <text x="310" y="150" fill="#8b949e" font-family="Arial,sans-serif" font-size="11" text-anchor="end">23.5%</text>
+      <text x="310" y="150" fill="#8b949e" font-family="Arial,sans-serif" font-size="11" text-anchor="end">22.2%</text>
       <rect x="40" y="154" width="230" height="12" rx="6" fill="#30363d"/>
-      <rect x="40" y="154" width="54.11764705882352" height="12" rx="6" fill="#3178c6"/>
+      <rect x="40" y="154" width="51.11111111111111" height="12" rx="6" fill="#3178c6"/>
     </g>
     <g class="row" style="animation-delay:0.24s">
       <text x="40" y="180" fill="#e6edf3" font-family="Arial,sans-serif" font-size="12">C</text>
-      <text x="310" y="180" fill="#8b949e" font-family="Arial,sans-serif" font-size="11" text-anchor="end">5.9%</text>
+      <text x="310" y="180" fill="#8b949e" font-family="Arial,sans-serif" font-size="11" text-anchor="end">5.6%</text>
       <rect x="40" y="184" width="230" height="12" rx="6" fill="#30363d"/>
-      <rect x="40" y="184" width="13.52941176470588" height="12" rx="6" fill="#555555"/>
+      <rect x="40" y="184" width="12.777777777777777" height="12" rx="6" fill="#555555"/>
     </g>
     <g class="row" style="animation-delay:0.32s">
       <text x="40" y="210" fill="#e6edf3" font-family="Arial,sans-serif" font-size="12">HTML</text>
-      <text x="310" y="210" fill="#8b949e" font-family="Arial,sans-serif" font-size="11" text-anchor="end">5.9%</text>
+      <text x="310" y="210" fill="#8b949e" font-family="Arial,sans-serif" font-size="11" text-anchor="end">5.6%</text>
       <rect x="40" y="214" width="230" height="12" rx="6" fill="#30363d"/>
-      <rect x="40" y="214" width="13.52941176470588" height="12" rx="6" fill="#e34c26"/>
+      <rect x="40" y="214" width="12.777777777777777" height="12" rx="6" fill="#e34c26"/>
     </g>
 </svg>
