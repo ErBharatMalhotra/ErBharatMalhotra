@@ -51,8 +51,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "Bharat Malhotra"
+          git config --local user.email "mr.bharatmalhotra@gmail.com"
           git add profile/*.svg
           if git diff --staged --quiet; then
             echo "ℹ️ No changes to commit"
